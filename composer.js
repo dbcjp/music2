@@ -579,16 +579,6 @@ let composers = [
         rank: 1
     },
     {
-        name: "Rachmaninoff, Sergei",
-        nameJ: "セルゲイ・ラフマニノフ",
-        birth: 1873,
-        death: 1943,
-        period: "Modern",
-        birthCountry: "Russia",
-        activityCountries: ["Russia", "United States"],
-        rank: 1
-    },
-    {
         name: "Gershwin, George",
         nameJ: "ジョージ・ガーシュウィン",
         birth: 1898,
@@ -730,6 +720,275 @@ let composers = [
         period: "Contemporary",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
+        rank: 2
+    },
+
+    // Renaissance / ルネサンス
+
+    {
+        name: "Gabrieli, Andrea",
+        nameJ: "アンドレア・ガブリエリ",
+        birth: 1532,
+        death: 1585,
+        period: "Renaissance",
+        birthCountry: "Italy",
+        activityCountries: ["Italy"],
+        rank: 2
+    },
+    {
+        name: "Gabrieli, Giovanni",
+        nameJ: "ジョヴァンニ・ガブリエリ",
+        birth: 1557,
+        death: 1612,
+        period: "Renaissance",
+        birthCountry: "Italy",
+        activityCountries: ["Italy", "Germany"],
+        rank: 1
+    },
+    {
+        name: "Dowland, John",
+        nameJ: "ジョン・ダウランド",
+        birth: 1563,
+        death: 1626,
+        period: "Renaissance",
+        birthCountry: "England",
+        activityCountries: ["England", "Denmark"],
+        rank: 1
+    },
+
+    // Baroque / バロック
+
+    {
+        name: "Eyck, Jacob van",
+        nameJ: "ヤーコプ・ファン・エイク",
+        birth: 1590,
+        death: 1657,
+        period: "Baroque",
+        birthCountry: "Netherlands",
+        activityCountries: ["Netherlands"],
+        rank: 2
+    },
+
+    // Classical / 古典派・ロマン派初期
+
+    {
+        name: "Mendelssohn, Felix",
+        nameJ: "フェリックス・メンデルスゾーン",
+        birth: 1809,
+        death: 1847,
+        period: "Romantic",
+        birthCountry: "Germany",
+        activityCountries: ["Germany", "England", "Italy"],
+        rank: 1
+    },
+
+    // Romantic / ロマン派
+
+    {
+        name: "Berlioz, Hector",
+        nameJ: "エクトル・ベルリオーズ",
+        birth: 1803,
+        death: 1869,
+        period: "Romantic",
+        birthCountry: "France",
+        activityCountries: ["France", "Germany", "Russia"],
+        rank: 1
+    },
+    {
+        name: "Smetana, Bedřich",
+        nameJ: "ベドルジハ・スメタナ",
+        birth: 1824,
+        death: 1884,
+        period: "Romantic",
+        birthCountry: "Bohemia",
+        activityCountries: ["Bohemia", "Sweden"],
+        rank: 1
+    },
+    {
+        name: "Wolf, Hugo",
+        nameJ: "フーゴ・ヴォルフ",
+        birth: 1860,
+        death: 1903,
+        period: "Romantic",
+        birthCountry: "Austria",
+        activityCountries: ["Austria"],
+        rank: 2
+    },
+
+    // Modern / 近代
+
+    {
+        name: "Respighi, Ottorino",
+        nameJ: "オットリーノ・レスピーギ",
+        birth: 1879,
+        death: 1936,
+        period: "Modern",
+        birthCountry: "Italy",
+        activityCountries: ["Italy", "Russia"],
+        rank: 2
+    },
+    {
+        name: "Copland, Aaron",
+        nameJ: "アーロン・コープランド",
+        birth: 1900,
+        death: 1990,
+        period: "Modern",
+        birthCountry: "United States",
+        activityCountries: ["United States", "Mexico"],
+        rank: 1
+    },
+    {
+        name: "Ives, Charles",
+        nameJ: "チャールズ・アイヴズ",
+        birth: 1874,
+        death: 1954,
+        period: "Modern",
+        birthCountry: "United States",
+        activityCountries: ["United States"],
+        rank: 1
+    },
+    {
+        name: "Poulenc, Francis",
+        nameJ: "フランシス・プーランク",
+        birth: 1899,
+        death: 1963,
+        period: "Modern",
+        birthCountry: "France",
+        activityCountries: ["France"],
+        rank: 1
+    },
+    {
+        name: "Feldman, Morton",
+        nameJ: "モートン・フェルドマン",
+        birth: 1926,
+        death: 1987,
+        period: "Modern",
+        birthCountry: "United States",
+        activityCountries: ["United States"],
+        rank: 2
+    },
+
+    // Japanese composers / 日本の作曲家
+
+    {
+        name: "Taki, Rentarō",
+        nameJ: "滝廉太郎",
+        birth: 1879,
+        death: 1903,
+        period: "Modern",
+        birthCountry: "Japan",
+        activityCountries: ["Japan", "Germany"],
+        rank: 2
+    },
+    {
+        name: "Yamada, Kōsaku",
+        nameJ: "山田耕筰",
+        birth: 1886,
+        death: 1965,
+        period: "Modern",
+        birthCountry: "Japan",
+        activityCountries: ["Japan", "Germany"],
+        rank: 1
+    },
+    {
+        name: "Mayuzumi, Toshirō",
+        nameJ: "黛敏郎",
+        birth: 1929,
+        death: 1997,
+        period: "Modern",
+        birthCountry: "Japan",
+        activityCountries: ["Japan", "France"],
+        rank: 2
+    },
+    {
+        name: "Takemitsu, Tōru",
+        nameJ: "武満徹",
+        birth: 1930,
+        death: 1996,
+        period: "Modern",
+        birthCountry: "Japan",
+        activityCountries: ["Japan", "United States", "France"],
+        rank: 1
+    },
+
+    {
+        name: "Duparc, Henri",
+        nameJ: "アンリ・デュパルク",
+        birth: 1848,
+        death: 1933,
+        period: "Romantic",
+        birthCountry: "France",
+        activityCountries: ["France", "Switzerland"],
+        rank: 2
+    },
+    {
+        name: "Elgar, Edward",
+        nameJ: "エドワード・エルガー",
+        birth: 1857,
+        death: 1934,
+        period: "Romantic",
+        birthCountry: "England",
+        activityCountries: ["England"],
+        rank: 1
+    },
+    {
+        name: "Janáček, Leoš",
+        nameJ: "レオシュ・ヤナーチェク",
+        birth: 1854,
+        death: 1928,
+        period: "Modern",
+        birthCountry: "Moravia",
+        activityCountries: ["Moravia", "Bohemia"],
+        rank: 1
+    },
+    {
+        name: "Glinka, Mikhail",
+        nameJ: "ミハイル・グリンカ",
+        birth: 1804,
+        death: 1857,
+        period: "Romantic",
+        birthCountry: "Russia",
+        activityCountries: ["Russia", "Italy", "Germany"],
+        rank: 1
+    },
+    {
+        name: "Balakirev, Mily",
+        nameJ: "ミリイ・バラキレフ",
+        birth: 1837,
+        death: 1910,
+        period: "Romantic",
+        birthCountry: "Russia",
+        activityCountries: ["Russia"],
+        rank: 2
+    },
+    {
+        name: "Cui, César",
+        nameJ: "ツェーザリ・キュイ",
+        birth: 1835,
+        death: 1918,
+        period: "Romantic",
+        birthCountry: "Lithuania",
+        activityCountries: ["Russia"],
+        rank: 2
+    },
+    {
+        name: "Hindemith, Paul",
+        nameJ: "パウル・ヒンデミット",
+        birth: 1895,
+        death: 1963,
+        period: "Modern",
+        birthCountry: "Germany",
+        activityCountries: ["Germany", "Switzerland", "United States"],
+        rank: 1
+    },
+    {
+        name: "Yuasa, Joji",
+        nameJ: "湯浅譲二",
+        birth: 1929,
+        death: 2024,
+        period: "Contemporary",
+        birthCountry: "Japan",
+        activityCountries: ["Japan", "Germany", "United States"],
         rank: 2
     }
 
