@@ -733,7 +733,7 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 2
+        rank: 1
     },
     {
         name: "Gabrieli, Giovanni",
