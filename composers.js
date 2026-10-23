@@ -30,7 +30,7 @@ let composers = [
         period: "Renaissance",
         birthCountry: "France",
         activityCountries: ["France", "Italy"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Isaac, Heinrich",
@@ -60,7 +60,7 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Byrd, William",
@@ -70,7 +70,7 @@ let composers = [
         period: "Renaissance",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Victoria, Tomás Luis de",
@@ -124,7 +124,7 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Purcell, Henry",
@@ -134,7 +134,7 @@ let composers = [
         period: "Baroque",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Corelli, Arcangelo",
@@ -204,7 +204,7 @@ let composers = [
         period: "Baroque",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Scarlatti, Domenico",
@@ -292,7 +292,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Chopin, Frédéric",
@@ -442,7 +442,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Mahler, Gustav",
@@ -586,7 +586,7 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Shostakovich, Dmitri",
@@ -646,7 +646,7 @@ let composers = [
         period: "Modern",
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "Austria", "Germany"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Boulez, Pierre",
@@ -666,7 +666,7 @@ let composers = [
         period: "Modern",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 1
+        rank: 2
     },
 
 
@@ -680,7 +680,7 @@ let composers = [
         period: "Contemporary",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Glass, Philip",
@@ -690,7 +690,7 @@ let composers = [
         period: "Contemporary",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Pärt, Arvo",
@@ -802,7 +802,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "Bohemia",
         activityCountries: ["Bohemia", "Sweden"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Wolf, Hugo",
@@ -812,7 +812,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 2
+        rank: 1
     },
 
     // Modern / 近代
@@ -835,7 +835,7 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States", "Mexico"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Ives, Charles",
@@ -845,7 +845,7 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Poulenc, Francis",
@@ -865,7 +865,7 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 2
+        rank: 1
     },
 
     // Japanese composers / 日本の作曲家
@@ -888,7 +888,7 @@ let composers = [
         period: "Modern",
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Mayuzumi, Toshirō",
@@ -929,7 +929,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Janáček, Leoš",
@@ -949,7 +949,7 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia", "Italy", "Germany"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Balakirev, Mily",
@@ -979,7 +979,7 @@ let composers = [
         period: "Modern",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Switzerland", "United States"],
-        rank: 1
+        rank: 2
     },
     {
         name: "Yuasa, Joji",
