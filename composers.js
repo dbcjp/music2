@@ -1,4 +1,4 @@
-let composers = [
+let db = [
 
     // Renaissance ルネサンス
 
@@ -10,7 +10,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "France",
         activityCountries: ["France", "Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Ockeghem, Johannes",
@@ -20,7 +21,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Josquin des Prez",
@@ -30,7 +32,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "France",
         activityCountries: ["France", "Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Isaac, Heinrich",
@@ -40,7 +43,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Netherlands",
         activityCountries: ["Italy", "Austria"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Tallis, Thomas",
@@ -50,7 +54,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Palestrina, Giovanni Pierluigi da",
@@ -60,7 +65,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Byrd, William",
@@ -70,7 +76,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Victoria, Tomás Luis de",
@@ -80,7 +87,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Spain",
         activityCountries: ["Spain", "Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Monteverdi, Claudio",
@@ -90,7 +98,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
 
@@ -104,7 +113,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Schütz, Heinrich",
@@ -114,7 +124,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Lully, Jean-Baptiste",
@@ -124,7 +135,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Purcell, Henry",
@@ -134,7 +146,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Corelli, Arcangelo",
@@ -144,7 +157,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Couperin, François",
@@ -154,7 +168,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Vivaldi, Antonio",
@@ -164,7 +179,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy", "Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Telemann, Georg Philipp",
@@ -174,7 +190,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Bach, Johann Sebastian",
@@ -184,7 +201,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Handel, George Frideric",
@@ -194,7 +212,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy", "England"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Rameau, Jean-Philippe",
@@ -204,7 +223,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Scarlatti, Domenico",
@@ -214,7 +234,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Italy",
         activityCountries: ["Italy", "Portugal", "Spain"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
 
 
@@ -228,7 +249,8 @@ let composers = [
         period: "Classical",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy", "France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Haydn, Joseph",
@@ -238,7 +260,8 @@ let composers = [
         period: "Classical",
         birthCountry: "Austria",
         activityCountries: ["Austria", "England"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Boccherini, Luigi",
@@ -248,7 +271,8 @@ let composers = [
         period: "Classical",
         birthCountry: "Italy",
         activityCountries: ["Italy", "Spain"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Mozart, Wolfgang Amadeus",
@@ -258,7 +282,8 @@ let composers = [
         period: "Classical",
         birthCountry: "Austria",
         activityCountries: ["Austria", "Germany", "Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Beethoven, Ludwig van",
@@ -268,7 +293,8 @@ let composers = [
         period: "Classical",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Schubert, Franz",
@@ -278,7 +304,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
 
@@ -292,7 +319,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Chopin, Frédéric",
@@ -302,7 +330,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Poland",
         activityCountries: ["Poland", "France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Schumann, Robert",
@@ -312,7 +341,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Liszt, Franz",
@@ -322,7 +352,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "France", "Germany", "Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Wagner, Richard",
@@ -332,7 +363,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Switzerland"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Verdi, Giuseppe",
@@ -342,7 +374,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Brahms, Johannes",
@@ -352,7 +385,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Borodin, Alexander",
@@ -362,7 +396,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Bruckner, Anton",
@@ -372,7 +407,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Mussorgsky, Modest",
@@ -382,7 +418,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Tchaikovsky, Pyotr Ilyich",
@@ -392,7 +429,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Rimsky-Korsakov, Nikolai",
@@ -402,7 +440,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Dvořák, Antonín",
@@ -412,7 +451,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Bohemia",
         activityCountries: ["Bohemia", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Grieg, Edvard",
@@ -422,7 +462,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Norway",
         activityCountries: ["Norway"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Fauré, Gabriel",
@@ -432,7 +473,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Puccini, Giacomo",
@@ -442,7 +484,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Mahler, Gustav",
@@ -452,7 +495,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Bohemia",
         activityCountries: ["Austria", "Germany", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Debussy, Claude",
@@ -462,7 +506,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Strauss, Richard",
@@ -472,7 +517,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
 
@@ -486,7 +532,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Finland",
         activityCountries: ["Finland"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Satie, Erik",
@@ -496,7 +543,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Rachmaninoff, Sergei",
@@ -506,7 +554,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Russia",
         activityCountries: ["Russia", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Schoenberg, Arnold",
@@ -516,7 +565,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Austria",
         activityCountries: ["Austria", "Germany", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Ravel, Maurice",
@@ -526,7 +576,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Bartók, Béla",
@@ -536,7 +587,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Stravinsky, Igor",
@@ -546,7 +598,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Russia",
         activityCountries: ["Russia", "France", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Webern, Anton",
@@ -556,7 +609,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Berg, Alban",
@@ -566,7 +620,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Prokofiev, Sergei",
@@ -576,7 +631,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Russia",
         activityCountries: ["Russia", "France", "United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Gershwin, George",
@@ -586,7 +642,8 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Shostakovich, Dmitri",
@@ -596,7 +653,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Messiaen, Olivier",
@@ -606,7 +664,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Cage, John",
@@ -616,7 +675,8 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Britten, Benjamin",
@@ -626,7 +686,8 @@ let composers = [
         period: "Modern",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Lutosławski, Witold",
@@ -636,7 +697,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Poland",
         activityCountries: ["Poland"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Ligeti, György",
@@ -646,7 +708,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "Austria", "Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Boulez, Pierre",
@@ -656,7 +719,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France", "Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Stockhausen, Karlheinz",
@@ -666,7 +730,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
 
 
@@ -680,7 +745,8 @@ let composers = [
         period: "Contemporary",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Glass, Philip",
@@ -690,7 +756,8 @@ let composers = [
         period: "Contemporary",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Pärt, Arvo",
@@ -700,7 +767,8 @@ let composers = [
         period: "Contemporary",
         birthCountry: "Estonia",
         activityCountries: ["Estonia", "Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Adams, John",
@@ -710,7 +778,8 @@ let composers = [
         period: "Contemporary",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Rihm, Wolfgang",
@@ -720,30 +789,33 @@ let composers = [
         period: "Contemporary",
         birthCountry: "Germany",
         activityCountries: ["Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
 
     // Renaissance / ルネサンス
 
     {
-        name: "Gabrieli, Andrea",
+        name: "Gabrieli(A), Andrea",
         nameJ: "アンドレア・ガブリエリ",
         birth: 1532,
         death: 1585,
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
-        name: "Gabrieli, Giovanni",
+        name: "Gabrieli(G), Giovanni",
         nameJ: "ジョヴァンニ・ガブリエリ",
         birth: 1557,
         death: 1612,
         period: "Renaissance",
         birthCountry: "Italy",
         activityCountries: ["Italy", "Germany"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Dowland, John",
@@ -753,7 +825,8 @@ let composers = [
         period: "Renaissance",
         birthCountry: "England",
         activityCountries: ["England", "Denmark"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
     // Baroque / バロック
@@ -766,7 +839,8 @@ let composers = [
         period: "Baroque",
         birthCountry: "Netherlands",
         activityCountries: ["Netherlands"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
 
     // Classical / 古典派・ロマン派初期
@@ -779,7 +853,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Germany",
         activityCountries: ["Germany", "England", "Italy"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
     // Romantic / ロマン派
@@ -792,7 +867,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "France",
         activityCountries: ["France", "Germany", "Russia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Smetana, Bedřich",
@@ -802,7 +878,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Bohemia",
         activityCountries: ["Bohemia", "Sweden"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Wolf, Hugo",
@@ -812,7 +889,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
     // Modern / 近代
@@ -825,7 +903,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Italy",
         activityCountries: ["Italy", "Russia"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Copland, Aaron",
@@ -835,7 +914,8 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States", "Mexico"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Ives, Charles",
@@ -845,7 +925,8 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Poulenc, Francis",
@@ -855,7 +936,8 @@ let composers = [
         period: "Modern",
         birthCountry: "France",
         activityCountries: ["France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Feldman, Morton",
@@ -865,7 +947,8 @@ let composers = [
         period: "Modern",
         birthCountry: "United States",
         activityCountries: ["United States"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
     // Japanese composers / 日本の作曲家
@@ -878,7 +961,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Yamada, Kōsaku",
@@ -888,7 +972,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Mayuzumi, Toshirō",
@@ -898,7 +983,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Japan",
         activityCountries: ["Japan", "France"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Takemitsu, Tōru",
@@ -908,7 +994,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Japan",
         activityCountries: ["Japan", "United States", "France"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
 
     {
@@ -919,7 +1006,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "France",
         activityCountries: ["France", "Switzerland"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Elgar, Edward",
@@ -929,7 +1017,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "England",
         activityCountries: ["England"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Janáček, Leoš",
@@ -939,7 +1028,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Moravia",
         activityCountries: ["Moravia", "Bohemia"],
-        rank: 1
+        rank: 1,
+        role: composer
     },
     {
         name: "Glinka, Mikhail",
@@ -949,7 +1039,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia", "Italy", "Germany"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Balakirev, Mily",
@@ -959,7 +1050,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Russia",
         activityCountries: ["Russia"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Cui, César",
@@ -969,7 +1061,8 @@ let composers = [
         period: "Romantic",
         birthCountry: "Lithuania",
         activityCountries: ["Russia"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Hindemith, Paul",
@@ -979,7 +1072,8 @@ let composers = [
         period: "Modern",
         birthCountry: "Germany",
         activityCountries: ["Germany", "Switzerland", "United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     },
     {
         name: "Yuasa, Joji",
@@ -989,7 +1083,8 @@ let composers = [
         period: "Contemporary",
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany", "United States"],
-        rank: 2
+        rank: 2,
+        role: composer
     }
 
 ];
