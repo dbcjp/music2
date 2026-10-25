@@ -1,4 +1,4 @@
-let db = [
+let basicData = [
 
     // Renaissance ルネサンス
 
@@ -11,7 +11,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France", "Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Ockeghem, Johannes",
@@ -22,7 +22,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Josquin des Prez",
@@ -33,7 +33,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France", "Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Isaac, Heinrich",
@@ -44,7 +44,7 @@ let db = [
         birthCountry: "Netherlands",
         activityCountries: ["Italy", "Austria"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Tallis, Thomas",
@@ -55,7 +55,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Palestrina, Giovanni Pierluigi da",
@@ -66,7 +66,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Byrd, William",
@@ -77,7 +77,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Victoria, Tomás Luis de",
@@ -88,7 +88,7 @@ let db = [
         birthCountry: "Spain",
         activityCountries: ["Spain", "Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Monteverdi, Claudio",
@@ -99,7 +99,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
 
@@ -114,7 +114,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Schütz, Heinrich",
@@ -125,7 +125,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Lully, Jean-Baptiste",
@@ -136,7 +136,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Purcell, Henry",
@@ -147,7 +147,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Corelli, Arcangelo",
@@ -158,7 +158,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Couperin, François",
@@ -169,7 +169,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Vivaldi, Antonio",
@@ -180,7 +180,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Telemann, Georg Philipp",
@@ -191,7 +191,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Bach, Johann Sebastian",
@@ -202,7 +202,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Handel, George Frideric",
@@ -213,7 +213,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy", "England"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Rameau, Jean-Philippe",
@@ -224,7 +224,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Scarlatti, Domenico",
@@ -235,7 +235,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "Portugal", "Spain"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
 
 
@@ -250,7 +250,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Italy", "France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Haydn, Joseph",
@@ -261,7 +261,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria", "England"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Boccherini, Luigi",
@@ -272,7 +272,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "Spain"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Mozart, Wolfgang Amadeus",
@@ -283,7 +283,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria", "Germany", "Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Beethoven, Ludwig van",
@@ -294,7 +294,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Schubert, Franz",
@@ -305,7 +305,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
 
@@ -320,7 +320,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Chopin, Frédéric",
@@ -331,7 +331,7 @@ let db = [
         birthCountry: "Poland",
         activityCountries: ["Poland", "France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Schumann, Robert",
@@ -342,7 +342,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Liszt, Franz",
@@ -353,7 +353,7 @@ let db = [
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "France", "Germany", "Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Wagner, Richard",
@@ -364,7 +364,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Switzerland"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Verdi, Giuseppe",
@@ -375,7 +375,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Brahms, Johannes",
@@ -386,7 +386,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Borodin, Alexander",
@@ -397,7 +397,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Bruckner, Anton",
@@ -408,7 +408,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Mussorgsky, Modest",
@@ -419,7 +419,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Tchaikovsky, Pyotr Ilyich",
@@ -430,7 +430,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Rimsky-Korsakov, Nikolai",
@@ -441,7 +441,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Dvořák, Antonín",
@@ -452,7 +452,7 @@ let db = [
         birthCountry: "Bohemia",
         activityCountries: ["Bohemia", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Grieg, Edvard",
@@ -463,7 +463,7 @@ let db = [
         birthCountry: "Norway",
         activityCountries: ["Norway"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Fauré, Gabriel",
@@ -474,7 +474,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Puccini, Giacomo",
@@ -485,7 +485,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Mahler, Gustav",
@@ -496,7 +496,7 @@ let db = [
         birthCountry: "Bohemia",
         activityCountries: ["Austria", "Germany", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Debussy, Claude",
@@ -507,7 +507,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Strauss, Richard",
@@ -518,7 +518,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
 
@@ -533,7 +533,7 @@ let db = [
         birthCountry: "Finland",
         activityCountries: ["Finland"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Satie, Erik",
@@ -544,7 +544,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Rachmaninoff, Sergei",
@@ -555,7 +555,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Schoenberg, Arnold",
@@ -566,7 +566,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria", "Germany", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Ravel, Maurice",
@@ -577,7 +577,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Bartók, Béla",
@@ -588,7 +588,7 @@ let db = [
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Stravinsky, Igor",
@@ -599,7 +599,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia", "France", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Webern, Anton",
@@ -610,7 +610,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Berg, Alban",
@@ -621,7 +621,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Prokofiev, Sergei",
@@ -632,7 +632,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia", "France", "United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Gershwin, George",
@@ -643,7 +643,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Shostakovich, Dmitri",
@@ -654,7 +654,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Messiaen, Olivier",
@@ -665,7 +665,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Cage, John",
@@ -676,7 +676,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Britten, Benjamin",
@@ -687,7 +687,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Lutosławski, Witold",
@@ -698,7 +698,7 @@ let db = [
         birthCountry: "Poland",
         activityCountries: ["Poland"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Ligeti, György",
@@ -709,7 +709,7 @@ let db = [
         birthCountry: "Hungary",
         activityCountries: ["Hungary", "Austria", "Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Boulez, Pierre",
@@ -720,7 +720,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France", "Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Stockhausen, Karlheinz",
@@ -731,7 +731,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
 
 
@@ -746,7 +746,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Glass, Philip",
@@ -757,7 +757,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Pärt, Arvo",
@@ -768,7 +768,7 @@ let db = [
         birthCountry: "Estonia",
         activityCountries: ["Estonia", "Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Adams, John",
@@ -779,7 +779,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Rihm, Wolfgang",
@@ -790,7 +790,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
 
     // Renaissance / ルネサンス
@@ -804,7 +804,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Gabrieli(G), Giovanni",
@@ -815,7 +815,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "Germany"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Dowland, John",
@@ -826,7 +826,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England", "Denmark"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
     // Baroque / バロック
@@ -840,7 +840,7 @@ let db = [
         birthCountry: "Netherlands",
         activityCountries: ["Netherlands"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
 
     // Classical / 古典派・ロマン派初期
@@ -854,7 +854,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "England", "Italy"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
     // Romantic / ロマン派
@@ -868,7 +868,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France", "Germany", "Russia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Smetana, Bedřich",
@@ -879,7 +879,7 @@ let db = [
         birthCountry: "Bohemia",
         activityCountries: ["Bohemia", "Sweden"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Wolf, Hugo",
@@ -890,7 +890,7 @@ let db = [
         birthCountry: "Austria",
         activityCountries: ["Austria"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
     // Modern / 近代
@@ -904,7 +904,7 @@ let db = [
         birthCountry: "Italy",
         activityCountries: ["Italy", "Russia"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Copland, Aaron",
@@ -915,7 +915,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States", "Mexico"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Ives, Charles",
@@ -926,7 +926,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Poulenc, Francis",
@@ -937,7 +937,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Feldman, Morton",
@@ -948,7 +948,7 @@ let db = [
         birthCountry: "United States",
         activityCountries: ["United States"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
     // Japanese composers / 日本の作曲家
@@ -962,7 +962,7 @@ let db = [
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Yamada, Kōsaku",
@@ -973,7 +973,7 @@ let db = [
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Mayuzumi, Toshirō",
@@ -984,7 +984,7 @@ let db = [
         birthCountry: "Japan",
         activityCountries: ["Japan", "France"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Takemitsu, Tōru",
@@ -995,7 +995,7 @@ let db = [
         birthCountry: "Japan",
         activityCountries: ["Japan", "United States", "France"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
 
     {
@@ -1007,7 +1007,7 @@ let db = [
         birthCountry: "France",
         activityCountries: ["France", "Switzerland"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Elgar, Edward",
@@ -1018,7 +1018,7 @@ let db = [
         birthCountry: "England",
         activityCountries: ["England"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Janáček, Leoš",
@@ -1029,7 +1029,7 @@ let db = [
         birthCountry: "Moravia",
         activityCountries: ["Moravia", "Bohemia"],
         rank: 1,
-        role: composer
+        role: "composer"
     },
     {
         name: "Glinka, Mikhail",
@@ -1040,7 +1040,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia", "Italy", "Germany"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Balakirev, Mily",
@@ -1051,7 +1051,7 @@ let db = [
         birthCountry: "Russia",
         activityCountries: ["Russia"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Cui, César",
@@ -1062,7 +1062,7 @@ let db = [
         birthCountry: "Lithuania",
         activityCountries: ["Russia"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Hindemith, Paul",
@@ -1073,7 +1073,7 @@ let db = [
         birthCountry: "Germany",
         activityCountries: ["Germany", "Switzerland", "United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     },
     {
         name: "Yuasa, Joji",
@@ -1084,7 +1084,7 @@ let db = [
         birthCountry: "Japan",
         activityCountries: ["Japan", "Germany", "United States"],
         rank: 2,
-        role: composer
+        role: "composer"
     }
 
 ];
