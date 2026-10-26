@@ -5,6 +5,6 @@ let tableIndex = [
     },
     {
       title: "Music / Conductors",
-      url: "Conductors.js"
+      url: "conductors.js"
     }
     ];
