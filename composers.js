@@ -1,4 +1,4 @@
-let basicData = [
+basicData = [
 
     // Renaissance ルネサンス
 
