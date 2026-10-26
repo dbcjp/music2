@@ -1,4 +1,4 @@
-let basicData = [
+basicData = [
     {
         name: "Bülow, Hans von",
         nameJ: "ビューロー",
