@@ -889,7 +889,7 @@ basicData = [
         period: "Romantic",
         birthCountry: "Austria",
         activityCountries: ["Austria"],
-        rank: 1,
+        rank: 2,
         role: "composer"
     },
 
