@@ -30,7 +30,7 @@ works = [
     category: "opera",
     titleJ: "ボリス・ゴドゥノフ",
     title: "Boris Godunov",
-    year: "1868-69",
+    year: "1868,1869",
     text: "ムソルグスキー / V.スターソフ",
     premiere: "1873,ペテルブルク",
     notes: "幕: 4幕。プロローグと4幕"
@@ -39,7 +39,7 @@ works = [
     category: "opera",
     titleJ: "ホヴァーンシチナ",
     title: "Khovanshchina",
-    year: "1872-80",
+    year: "1872,1873,1874,1875,1876,1877,1878,1879,1880",
     text: "ムソルグスキー",
     premiere: "1886,ペテルブルク",
     notes: "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく"
@@ -55,18 +55,18 @@ works = [
 },
 {
     category: "opera",
-    titleJ: "ソロチンスクの定期市",
+    titleJ: "ソロチンツィの定期市",
     title: "Sorochintsï Fair",
-    year: "1874-80",
+    year: "1874,1875,1876,1877,1878,1879,1880",
     text: "ムソルグスキー",
     premiere: "1913,モスクワ",
-    notes: "幕: 3幕4場。未完。『ソローチンツィの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく"
+    notes: "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく"
 },
 {
     category: "opera",
     titleJ: "サランボー",
     title: "Salammbô",
-    year: "1863-66",
+    year: "1863,1864,1865,1866",
     text: "ムソルグスキー",
     premiere: "-",
     notes: "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく"
@@ -75,7 +75,7 @@ works = [
     category: "opera",
     titleJ: "アテネのエディプス王",
     title: "Oedipus in Athens",
-    year: "1858-60",
+    year: "1858,1859,1860",
     text: "ムソルグスキー / V.A.オゼロフ",
     premiere: "1861(合唱曲のみ)",
     notes: "幕: -。未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく"
@@ -173,7 +173,7 @@ works = [
     category: "piano",
     titleJ: "古典様式による間奏曲",
     title: "Intermezzo in the Classic Style",
-    year: "1860-61",
+    year: "1860,1861",
     ensemble: "pf",
     note: "後に管弦楽編曲"
 },
@@ -277,7 +277,7 @@ works = [
     category: "chorus",
     titleJ: "センナヘリブの陥落",
     title: "The Destruction of Sennacherib",
-    year: "1866-67",
+    year: "1866.1867",
     ensemble: "cho,Orch",
     note: "バイロンによる。1873-74年改訂"
 },
@@ -285,7 +285,7 @@ works = [
     category: "chorus",
     titleJ: "イエス・ナヴィヌス（ヨシュア）",
     title: "Iisus Navin (Joshua)",
-    year: "1874-77",
+    year: "1874,1875,1876,1877",
     ensemble: "Ms,Br,cho,pf",
     note: "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）"
 },
@@ -669,7 +669,7 @@ works = [
     category: "song",
     titleJ: "歌曲集『子供部屋』",
     title: "The Nursery",
-    year: "1868-72",
+    year: "1868,1869,1870,1871,1872",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
     note: "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫"
@@ -723,7 +723,7 @@ works = [
     category: "song",
     titleJ: "歌曲集『死の歌と踊り』",
     title: "Songs and Dances of Death",
-    year: "1875-77",
+    year: "1875,1877",
     ensemble: "独唱,pf",
     text: "A.A.ゴレニシチェフ=クトゥーゾフ",
     note: "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
