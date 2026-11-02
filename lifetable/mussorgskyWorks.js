@@ -109,7 +109,7 @@ works = [
     category: "orchestra",
     titleJ: "交響曲 ニ長調",
     title: "Symphony in D major",
-    year: "1861-62",
+    year: "1861,1862",
     ensemble: "Orch",
     notes: "未完、紛失。アンダンテ、スケルツォとフィナーレのみ作曲"
 },
@@ -119,7 +119,7 @@ works = [
     title: "St. John's Night on the Bare Mountain",
     year: "1867",
     ensemble: "pf,Orch",
-    notes: "『禿山の一夜』の原曲"
+    notes: "『禿山の一夜』の原曲、1886年リムスキー＝コルサコフ管弦楽編曲"
 },
 {
     category: "orchestra",
@@ -152,14 +152,6 @@ works = [
     year: "1880",
     ensemble: "Orch,hp,pf",
     notes: "計画のみ"
-},
-{
-    category: "orchestra",
-    titleJ: "交響詩『禿山の一夜』",
-    title: "A Night on the Bare Mountain",
-    year: "(1886)",
-    ensemble: "Orch",
-    notes: "リムスキー＝コルサコフによる編曲版"
 },
 {
     category: "piano",
