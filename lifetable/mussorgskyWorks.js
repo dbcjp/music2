@@ -277,7 +277,7 @@ works = [
     category: "chorus",
     titleJ: "センナヘリブの陥落",
     title: "The Destruction of Sennacherib",
-    year: "1866.1867",
+    year: "1866,1867",
     ensemble: "cho,Orch",
     note: "バイロンによる。1873-74年改訂"
 },
