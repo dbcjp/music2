@@ -90,6 +90,78 @@ works = [
     notes: "幕: -。計画のみ。V.ユゴーの小説に基づく"
 },
 {
+    category: "orchestra",
+    titleJ: "スケルツォ 変ロ長調",
+    title: "Scherzo in B flat major",
+    year: "1858",
+    ensemble: "Orch",
+    notes: "原曲はピアノ曲"
+},
+{
+    category: "orchestra",
+    titleJ: "アラ・マルチャ・ノットゥルナ",
+    title: "Alla marcia notturna",
+    year: "1861",
+    ensemble: "Orch",
+    notes: ""
+},
+{
+    category: "orchestra",
+    titleJ: "交響曲 ニ長調",
+    title: "Symphony in D major",
+    year: "1861-62",
+    ensemble: "Orch",
+    notes: "未完、紛失。アンダンテ、スケルツォとフィナーレのみ作曲"
+},
+{
+    category: "orchestra",
+    titleJ: "禿山の聖ヨハネ祭の夜",
+    title: "St. John's Night on the Bare Mountain",
+    year: "1867",
+    ensemble: "pf,Orch",
+    notes: "『禿山の一夜』の原曲"
+},
+{
+    category: "orchestra",
+    titleJ: "古典様式による交響的間奏曲",
+    title: "Intermezzo symphonique in modo classico",
+    year: "1867",
+    ensemble: "Orch",
+    notes: "既存のピアノ曲に新しいトリオを付けて編曲"
+},
+{
+    category: "orchestra",
+    titleJ: "交響詩『ボヘミア王ポディブラト』",
+    title: "Podebrad of Bohemia",
+    year: "1867",
+    ensemble: "Orch",
+    notes: "計画のみ。『チェコ王ポディブラト』とも"
+},
+{
+    category: "orchestra",
+    titleJ: "行進曲『カルスの奪還』",
+    title: "The Capture of Kars",
+    year: "1880",
+    ensemble: "Orch",
+    notes: "原曲は『ムラダ』の「公と僧侶たちの行進」"
+},
+{
+    category: "orchestra",
+    titleJ: "大組曲",
+    title: "Transcaucasian Suite",
+    year: "1880",
+    ensemble: "Orch,hp,pf",
+    notes: "計画のみ"
+},
+{
+    category: "orchestra",
+    titleJ: "交響詩『禿山の一夜』",
+    title: "A Night on the Bare Mountain",
+    year: "(1886)",
+    ensemble: "Orch",
+    notes: "リムスキー＝コルサコフによる編曲版"
+},
+{
     category: "piano",
     titleJ: "旗手のポルカ",
     title: "Porte-enseigne (Polka)",
