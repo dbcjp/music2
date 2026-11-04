@@ -5,8 +5,8 @@ works = [
     title: "Bobyl'",
     year: "1870",
     text: "-",
-    premiere: "-",
-    notes: "幕: -。計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ"
+    ensemble: "Opera",
+    notes: "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
 },
 {
     category: "opera",
@@ -14,8 +14,8 @@ works = [
     title: "Marriage",
     year: "1868",
     text: "N.ゴーゴリ",
-    premiere: "1901,ペテルブルク / 1931,モスクワ(補筆版)",
-    notes: "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕)"
+    ensemble: "Opera",
+    notes: "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)"
 },
 {
     category: "opera",
@@ -23,8 +23,8 @@ works = [
     title: "Mlada",
     year: "1872",
     text: "V.A.クルイローフ",
-    premiere: "-",
-    notes: "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存"
+    ensemble: "Opera",
+    notes: "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存 "
 },
 {
     category: "opera",
@@ -32,8 +32,8 @@ works = [
     title: "Boris Godunov",
     year: "1868,1869",
     text: "ムソルグスキー / V.スターソフ",
-    premiere: "1873,ペテルブルク",
-    notes: "幕: 4幕。プロローグと4幕"
+    ensemble: "Opera",
+    notes: "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
 },
 {
     category: "opera",
@@ -41,8 +41,8 @@ works = [
     title: "Khovanshchina",
     year: "1872,1873,1874,1875,1876,1877,1878,1879,1880",
     text: "ムソルグスキー",
-    premiere: "1886,ペテルブルク",
-    notes: "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく"
+    ensemble: "Opera",
+    notes: "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク"
 },
 {
    category: "opera", 
@@ -50,8 +50,8 @@ works = [
     title: "Pugachovshchina",
     year: "1877",
     text: "-",
-    premiere: "-",
-    notes: "幕: -。計画のみ。A.プーシキンの『大尉の娘』に基づく"
+    ensemble: "Opera",
+    notes: "計画のみ。A.プーシキンの『大尉の娘』に基づく "
 },
 {
     category: "opera",
@@ -59,8 +59,8 @@ works = [
     title: "Sorochintsï Fair",
     year: "1874,1875,1876,1877,1878,1879,1880",
     text: "ムソルグスキー",
-    premiere: "1913,モスクワ",
-    notes: "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく"
+    ensemble: "Opera",
+    notes: "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ"
 },
 {
     category: "opera",
@@ -68,8 +68,8 @@ works = [
     title: "Salammbô",
     year: "1863,1864,1865,1866",
     text: "ムソルグスキー",
-    premiere: "-",
-    notes: "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく"
+    ensemble: "Opera",
+    notes: "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
 },
 {
     category: "opera",
@@ -77,8 +77,8 @@ works = [
     title: "Oedipus in Athens",
     year: "1858,1859,1860",
     text: "ムソルグスキー / V.A.オゼロフ",
-    premiere: "1861(合唱曲のみ)",
-    notes: "幕: -。未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく"
+    ensemble: "Opera",
+    notes: "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)"
 },
 {
     category: "opera",
@@ -86,8 +86,8 @@ works = [
     title: "Hans of Iceland",
     year: "1856",
     text: "V.ユゴー",
-    premiere: "-",
-    notes: "幕: -。計画のみ。V.ユゴーの小説に基づく"
+    ensemble: "Opera",
+    notes: "計画のみ。V.ユゴーの小説に基づく "
 },
 {
     category: "orchestra",
