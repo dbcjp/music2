@@ -91,8 +91,8 @@ works = [
 },
 {
     category: "orchestra",
-    titleJ: "スケルツォ 変ロ長調",
-    title: "Scherzo in B flat major",
+    titleJ: "スケルツォ 変ロ長調 (Orch)",
+    title: "Scherzo in B flat major (Orch)",
     year: "1858",
     ensemble: "Orch",
     notes: "原曲はピアノ曲"
@@ -195,8 +195,8 @@ works = [
 },
 {
     category: "piano",
-    titleJ: "スケルツォ 変ロ長調",
-    title: "Scherzo in B flat major",
+    titleJ: "スケルツォ 変ロ長調 (Pf)",
+    title: "Scherzo in B flat major (Pf)",
     year: "1858",
     ensemble: "pf",
     notes: ""
@@ -227,16 +227,16 @@ works = [
 },
 {
     category: "piano",
-    titleJ: "古典様式による前奏曲",
-    title: "Prelude in the Classic Style",
+    titleJ: "古典様式による前奏曲 (1)",
+    title: "Prelude in the Classic Style (1)",
     year: "1860",
     ensemble: "pf",
     notes: "紛失"
 },
 {
     category: "piano",
-    titleJ: "古典様式による間奏曲",
-    title: "Intermezzo in the Classic Style",
+    titleJ: "古典様式による間奏曲 (2)",
+    title: "Intermezzo in the Classic Style (2)",
     year: "1860,1861",
     ensemble: "pf",
     notes: "後に管弦楽編曲"
