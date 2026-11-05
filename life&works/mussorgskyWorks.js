@@ -159,7 +159,7 @@ works = [
     title: "Porte-enseigne (Polka)",
     year: "1852",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -167,7 +167,7 @@ works = [
     title: "Souvenir of Childhood",
     year: "1857",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -175,7 +175,7 @@ works = [
     title: "Sonata in E flat major",
     year: "1858",
     ensemble: "pf",
-    note: "未完、紛失。スケルツォとフィナーレのみ作曲"
+    notes: "未完、紛失。スケルツォとフィナーレのみ作曲"
 },
 {
     category: "piano",
@@ -183,7 +183,7 @@ works = [
     title: "Sonata in F sharp minor",
     year: "1858",
     ensemble: "pf",
-    note: "紛失"
+    notes: "紛失"
 },
 {
     category: "piano",
@@ -191,7 +191,7 @@ works = [
     title: "Scherzo in C sharp minor",
     year: "1858",
     ensemble: "pf",
-    note: "4手のためのピアノソナタの第2楽章に編曲"
+    notes: "4手のためのピアノソナタの第2楽章に編曲"
 },
 {
     category: "piano",
@@ -199,7 +199,7 @@ works = [
     title: "Scherzo in B flat major",
     year: "1858",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -207,7 +207,7 @@ works = [
     title: "Passionate Impromptu",
     year: "1859",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -215,7 +215,7 @@ works = [
     title: "Children's Games",
     year: "1859",
     ensemble: "pf",
-    note: "1860年改訂"
+    notes: "1860年改訂"
 },
 {
     category: "piano",
@@ -223,7 +223,7 @@ works = [
     title: "Allegro and Scherzo in C major",
     year: "1860",
     ensemble: "pf",
-    note: "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく"
+    notes: "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく"
 },
 {
     category: "piano",
@@ -231,7 +231,7 @@ works = [
     title: "Prelude in the Classic Style",
     year: "1860",
     ensemble: "pf",
-    note: "紛失"
+    notes: "紛失"
 },
 {
     category: "piano",
@@ -239,7 +239,7 @@ works = [
     title: "Intermezzo in the Classic Style",
     year: "1860,1861",
     ensemble: "pf",
-    note: "後に管弦楽編曲"
+    notes: "後に管弦楽編曲"
 },
 {
     category: "piano",
@@ -247,7 +247,7 @@ works = [
     title: "Menuet Monstre",
     year: "1868",
     ensemble: "pf",
-    note: "紛失"
+    notes: "紛失"
 },
 {
     category: "piano",
@@ -255,7 +255,7 @@ works = [
     title: "From Memories of Childhood",
     year: "1865",
     ensemble: "pf",
-    note: "全2曲。第1曲 乳母と私／第2曲 最初の罰"
+    notes: "全2曲。第1曲 乳母と私／第2曲 最初の罰"
 },
 {
     category: "piano",
@@ -263,7 +263,7 @@ works = [
     title: "Rêverie",
     year: "1865",
     ensemble: "pf",
-    note: "『夢想』とも。アンスネスらによる録音あり"
+    notes: "『夢想』とも。"
 },
 {
     category: "piano",
@@ -271,7 +271,7 @@ works = [
     title: "La Capricieuse",
     year: "1865",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -279,7 +279,7 @@ works = [
     title: "The Seamstress (Scherzino)",
     year: "1871",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -287,7 +287,7 @@ works = [
     title: "Pictures from an Exhibition",
     year: "1874",
     ensemble: "pf",
-    note: "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり"
+    notes: "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり"
 },
 {
     category: "piano",
@@ -295,7 +295,7 @@ works = [
     title: "Storm on the Black Sea",
     year: "1879",
     ensemble: "pf",
-    note: "紛失"
+    notes: "紛失"
 },
 {
     category: "piano",
@@ -303,7 +303,7 @@ works = [
     title: "Near the Southern Shore of the Crimea",
     year: "1880",
     ensemble: "pf",
-    note: "全2曲"
+    notes: "全2曲"
 },
 {
     category: "piano",
@@ -311,7 +311,7 @@ works = [
     title: "Meditation (album leaf)",
     year: "1880",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -319,7 +319,7 @@ works = [
     title: "A Tear",
     year: "1880",
     ensemble: "pf",
-    note: ""
+    notes: ""
 },
 {
     category: "piano",
@@ -327,7 +327,7 @@ works = [
     title: "In the Village",
     year: "1880",
     ensemble: "pf",
-    note: "オペラ『ソロチンスクの定期市』から祭りの場面とゴパックの編曲"
+    notes: "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲"
 },
 {
     category: "chorus",
@@ -335,7 +335,7 @@ works = [
     title: "Shamil's March",
     year: "1859",
     ensemble: "T,Bs,男声cho,Orch",
-    note: "計画のみ"
+    notes: "計画のみ"
 },
 {
     category: "chorus",
@@ -343,7 +343,7 @@ works = [
     title: "The Destruction of Sennacherib",
     year: "1866,1867",
     ensemble: "cho,Orch",
-    note: "バイロンによる。1873-74年改訂"
+    notes: "バイロンによる。1873-74年改訂"
 },
 {
     category: "chorus",
@@ -351,7 +351,7 @@ works = [
     title: "Iisus Navin (Joshua)",
     year: "1874,1875,1876,1877",
     ensemble: "Ms,Br,cho,pf",
-    note: "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）"
+    notes: "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）"
 },
 {
     category: "chorus",
@@ -359,7 +359,7 @@ works = [
     title: "Five Russian Folksongs",
     year: "1880",
     ensemble: "男声4部cho",
-    note: "全5曲。第1曲 話して、かわいい娘よ／第2曲 昇れ、赤い太陽よ／第3曲 お父様の戸口で／第4曲 ああ、自由よ／第5曲 未完"
+    notes: "全5曲。第1曲 話して、かわいい娘よ／第2曲 昇れ、赤い太陽よ／第3曲 お父様の戸口で／第4曲 ああ、自由よ／第5曲 未完"
 },
 {
     category: "chorus",
@@ -367,7 +367,7 @@ works = [
     title: "Three Vocalises",
     year: "1880",
     ensemble: "女声3部cho",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -376,7 +376,7 @@ works = [
     year: "1857",
     ensemble: "独唱,pf",
     text: "N.P.グレコフ",
-    note: "改訂版のタイトルは『星よ、お前はどこに』"
+    notes: "改訂版のタイトルは『星よ、お前はどこに』"
 },
 {
     category: "song",
@@ -385,7 +385,7 @@ works = [
     year: "1857",
     ensemble: "独唱,pf",
     text: "N.P.グレコフ",
-    note: "『田舎の歌』の改訂版"
+    notes: "『田舎の歌』の改訂版"
 },
 {
     category: "song",
@@ -394,7 +394,7 @@ works = [
     year: "1858",
     ensemble: "不明",
     text: "",
-    note: "自筆譜紛失、ドイツ語のテキスト"
+    notes: "自筆譜紛失、ドイツ語のテキスト"
 },
 {
     category: "song",
@@ -403,7 +403,7 @@ works = [
     year: "1858",
     ensemble: "独唱,pf",
     text: "A.S.プーシキン?",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -412,7 +412,7 @@ works = [
     year: "1858",
     ensemble: "独唱,pf",
     text: "A.V.コリツォフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -421,7 +421,7 @@ works = [
     year: "1858",
     ensemble: "独唱,pf",
     text: "A.N.プレシチェエフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -430,7 +430,7 @@ works = [
     year: "1860",
     ensemble: "独唱,pf",
     text: "A.アンモーソフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -439,7 +439,7 @@ works = [
     year: "1860",
     ensemble: "独唱,pf",
     text: "A.V.コリツォフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -448,7 +448,7 @@ works = [
     year: "1863",
     ensemble: "独唱,pf",
     text: "J.W.v.ゲーテ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -457,7 +457,7 @@ works = [
     year: "1863",
     ensemble: "独唱,pf",
     text: "G.G.バイロン／P.コズロフ訳",
-    note: "第2版あり"
+    notes: "第2版あり"
 },
 {
     category: "song",
@@ -466,7 +466,7 @@ works = [
     year: "1863",
     ensemble: "独唱,pf",
     text: "G.G.バイロン",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -475,7 +475,7 @@ works = [
     year: "1863",
     ensemble: "独唱,pf",
     text: "V.S.クローチキン",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -484,7 +484,7 @@ works = [
     year: "1864",
     ensemble: "独唱,pf",
     text: "A.V.コリツォフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -493,7 +493,7 @@ works = [
     year: "1864",
     ensemble: "独唱,pf",
     text: "A.I.ネクラーソフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -502,7 +502,7 @@ works = [
     year: "1864",
     ensemble: "独唱,pf",
     text: "A.I.ネクラーソフ",
-    note: "『カリストラートゥシュカ』の改訂版"
+    notes: "『カリストラートゥシュカ』の改訂版"
 },
 {
     category: "song",
@@ -511,7 +511,7 @@ works = [
     year: "1864",
     ensemble: "独唱,pf",
     text: "A.S.プーシキン",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -520,7 +520,7 @@ works = [
     year: "1865",
     ensemble: "独唱,pf",
     text: "M.Y.レールモントフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -529,7 +529,7 @@ works = [
     year: "1865",
     ensemble: "独唱,pf",
     text: "I.ホルツ=ミュラー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -538,7 +538,7 @@ works = [
     year: "1865",
     ensemble: "独唱,pf",
     text: "A.N.オストロフスキー",
-    note: "『安らかに眠れ、農夫の子よ』に改訂"
+    notes: "『安らかに眠れ、農夫の子よ』に改訂"
 },
 {
     category: "song",
@@ -547,7 +547,7 @@ works = [
     year: "1865",
     ensemble: "独唱,pf",
     text: "A.N.オストロフスキー",
-    note: "『子守歌』の改訂版"
+    notes: "『子守歌』の改訂版"
 },
 {
     category: "song",
@@ -556,7 +556,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -565,7 +565,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "A.N.プレシチェーエフ",
-    note: "または『マリュートカ』"
+    notes: "または『マリュートカ』"
 },
 {
     category: "song",
@@ -574,7 +574,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "H.ハイネ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -583,7 +583,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "H.ハイネ／M.L.ミハイロフ訳",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -592,7 +592,7 @@ works = [
     year: "1866",
     ensemble: "A,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -601,7 +601,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "T.G.シェフチェンコ／L.A.メイ訳",
-    note: "1868年に管弦楽伴奏版作成"
+    notes: "1868年に管弦楽伴奏版作成"
 },
 {
     category: "song",
@@ -610,7 +610,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "T.G.シェフチェンコ／L.A.メイ訳",
-    note: "1879年改訂"
+    notes: "1879年改訂"
 },
 {
     category: "song",
@@ -619,7 +619,7 @@ works = [
     year: "1866",
     ensemble: "独唱,pf",
     text: "T.G.シェフチェンコ／L.A.メイ訳",
-    note: "紛失"
+    notes: "紛失"
 },
 {
     category: "song",
@@ -628,7 +628,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "L.A.メイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -637,7 +637,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "A.S.プーシキン",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -646,7 +646,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -655,7 +655,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "L.A.メイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -664,7 +664,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "A.V.コリツォフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -673,7 +673,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -682,7 +682,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -691,7 +691,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -700,7 +700,7 @@ works = [
     year: "1867",
     ensemble: "独唱,pf",
     text: "A.V.コリツォフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -709,7 +709,7 @@ works = [
     year: "1868",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -718,7 +718,7 @@ works = [
     year: "1868",
     ensemble: "独唱,pf",
     text: "L.A.メイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -727,7 +727,7 @@ works = [
     year: "1868",
     ensemble: "独唱,pf",
     text: "A.I.ネクラーエフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -736,7 +736,7 @@ works = [
     year: "1868,1869,1870,1871,1872",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫"
+    notes: "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫"
 },
 {
     category: "song",
@@ -745,7 +745,7 @@ works = [
     year: "1871",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: "『人形芝居』とも"
+    notes: "『人形芝居』とも"
 },
 {
     category: "song",
@@ -754,7 +754,7 @@ works = [
     year: "1871",
     ensemble: "独唱,pf",
     text: "A.N.プレシチェーエフ?",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -763,7 +763,7 @@ works = [
     year: "1874",
     ensemble: "独唱,pf",
     text: "A.A.ゴレニシチェフ=クトゥーゾフ",
-    note: "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で"
+    notes: "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で"
 },
 {
     category: "song",
@@ -772,7 +772,7 @@ works = [
     year: "1874",
     ensemble: "独唱,pf",
     text: "A.A.ゴレニシチェフ=クトゥーゾフ",
-    note: "またはバラード"
+    notes: "またはバラード"
 },
 {
     category: "song",
@@ -781,7 +781,7 @@ works = [
     year: "1874",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: "未完"
+    notes: "未完"
 },
 {
     category: "song",
@@ -790,7 +790,7 @@ works = [
     year: "1875,1877",
     ensemble: "独唱,pf",
     text: "A.A.ゴレニシチェフ=クトゥーゾフ",
-    note: "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
+    notes: "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
 },
 {
     category: "song",
@@ -799,7 +799,7 @@ works = [
     year: "1874",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: "未完、カラチギン補筆完成"
+    notes: "未完、カラチギン補筆完成"
 },
 {
     category: "song",
@@ -808,7 +808,7 @@ works = [
     year: "1875",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -817,7 +817,7 @@ works = [
     year: "1875",
     ensemble: "独唱,pf",
     text: "ムソルグスキー",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -826,7 +826,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.K.トルストイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -835,7 +835,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.K.トルストイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -844,7 +844,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.K.トルストイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -853,7 +853,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.K.トルストイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -862,7 +862,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.K.トルストイ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -871,7 +871,7 @@ works = [
     year: "1877",
     ensemble: "独唱,pf",
     text: "A.A.ゴレニシチェフ=クトゥーゾフ",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -880,7 +880,7 @@ works = [
     year: "1878",
     ensemble: "独唱,pf",
     text: "F.リュッケルト／A.N.プレシチェーエフ訳",
-    note: ""
+    notes: ""
 },
 {
     category: "song",
@@ -889,7 +889,7 @@ works = [
     year: "1879",
     ensemble: "独唱,pf",
     text: "J.W.v.ゲーテ／A.P.ストルゴフシチコフ訳",
-    note: "または『アウエルバッハの酒倉でのメフィストフェレスの歌』"
+    notes: "または『アウエルバッハの酒倉でのメフィストフェレスの歌』"
 }
 
 ];
