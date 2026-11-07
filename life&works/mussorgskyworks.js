@@ -371,29 +371,29 @@ works = [
 },
 {
     category: "song",
-    titleJ: "田舎の歌",
-    title: "Rustic Song",
+    titleJ: "小さな星よ、お前はどこに？ 田舎の歌",
+    title: "Where Art Thou, Little Star? Rustic Song",
     year: "1857",
     ensemble: "独唱,pf",
     text: "N.P.グレコフ",
-    notes: "改訂版のタイトルは『星よ、お前はどこに』"
+    notes: "『星よ、お前はどこに』"
 },
 {
     category: "song",
-    titleJ: "星よ、お前はどこに",
+    titleJ: "小さな星よ、お前はどこに？",
     title: "Where Art Thou, Little Star?",
-    year: "1857",
-    ensemble: "独唱,pf",
+    year: "1858",
+    ensemble: "独唱,Orch",
     text: "N.P.グレコフ",
-    notes: "『田舎の歌』の改訂版"
+    notes: "『小さな星よ、お前はどこに？ 田舎の歌』の管弦楽改訂版、1858年6月3日〜4日"
 },
 {
     category: "song",
     titleJ: "私の心の憧れ",
     title: "Thou Longing of My Heart",
     year: "1858",
-    ensemble: "不明",
-    text: "",
+    ensemble: "独唱,pf",
+    text: "ムソルグスキー",
     notes: "自筆譜紛失、ドイツ語のテキスト"
 },
 {
