@@ -1,14 +1,14 @@
 let tableIndex = [
     {
-      title: "Music / Composers",
+      title: "作曲家 Composers",
       url: "composers.js"
     },
     {
-      title: "Music / Conductors",
+      title: "指揮者 Conductors",
       url: "conductors.js"
     },
     {
-      title: "Philosophers",
+      title: "思想家 Philosophers",
       url: "philosophers.js"
     }
     ];
