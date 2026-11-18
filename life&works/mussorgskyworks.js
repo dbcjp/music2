@@ -2,7 +2,7 @@ works = [
 {
     category: "opera",
     titleJ: "水呑百姓",
-    title: "Bobyl'",
+    title: "Bobyl\'",
     year: "1870",
     text: "-",
     ensemble: "Opera",
@@ -116,7 +116,7 @@ works = [
 {
     category: "orchestra",
     titleJ: "禿山の聖ヨハネ祭の夜",
-    title: "St. John's Night on the Bare Mountain",
+    title: "St. John\'s Night on the Bare Mountain",
     year: "1867",
     ensemble: "pf,Orch",
     notes: "『禿山の一夜』の原曲、1886年リムスキー＝コルサコフ管弦楽編曲"
@@ -212,7 +212,7 @@ works = [
 {
     category: "piano",
     titleJ: "子供の遊び（スケルツォ）",
-    title: "Children's Games",
+    title: "Children\'s Games",
     year: "1859",
     ensemble: "pf",
     notes: "1860年改訂"
@@ -332,7 +332,7 @@ works = [
 {
     category: "chorus",
     titleJ: "シャミールの行進曲",
-    title: "Shamil's March",
+    title: "Shamil\'s March",
     year: "1859",
     ensemble: "T,Bs,男声cho,Orch",
     notes: "計画のみ"
@@ -444,7 +444,7 @@ works = [
 {
     category: "song",
     titleJ: "老人の歌",
-    title: "Old Man's Song",
+    title: "Old Man\'s Song",
     year: "1863",
     ensemble: "独唱,pf",
     text: "J.W.v.ゲーテ",
@@ -615,7 +615,7 @@ works = [
 {
     category: "song",
     titleJ: "ヤリョーマの歌",
-    title: "Yaryoma's Song",
+    title: "Yaryoma\'s Song",
     year: "1866",
     ensemble: "独唱,pf",
     text: "T.G.シェフチェンコ／L.A.メイ訳",
@@ -714,7 +714,7 @@ works = [
 {
     category: "song",
     titleJ: "子供の歌",
-    title: "A Child's Song",
+    title: "A Child\'s Song",
     year: "1868",
     ensemble: "独唱,pf",
     text: "L.A.メイ",
@@ -723,7 +723,7 @@ works = [
 {
     category: "song",
     titleJ: "エリョームシュカの子守歌",
-    title: "Yeryomushka's Lullaby",
+    title: "Yeryomushka\'s Lullaby",
     year: "1868",
     ensemble: "独唱,pf",
     text: "A.I.ネクラーエフ",
