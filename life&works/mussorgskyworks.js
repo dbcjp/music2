@@ -2,85 +2,15 @@ works = [
   {
     "catalog": "M1",
     "category": "opera",
-    "titleJ": "水呑百姓",
-    "title": "Bobyl'",
-    "year": "1870",
+    "titleJ": "アイスランドのハン",
+    "title": "Hans of Iceland",
+    "year": "1856",
     "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
+    "text": "V.ユゴー",
+    "notes": "計画のみ。V.ユゴーの小説に基づく "
   },
   {
     "catalog": "M2",
-    "category": "opera",
-    "titleJ": "結婚",
-    "title": "Marriage",
-    "year": "1868",
-    "ensemble": "Opera",
-    "text": "N.ゴーゴリ",
-    "notes": "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)"
-  },
-  {
-    "catalog": "M3",
-    "category": "opera",
-    "titleJ": "ムラダ",
-    "title": "Mlada",
-    "year": "1872",
-    "ensemble": "Opera",
-    "text": "V.A.クルイローフ",
-    "notes": "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存 "
-  },
-  {
-    "catalog": "M4",
-    "category": "opera",
-    "titleJ": "ボリス・ゴドゥノフ",
-    "title": "Boris Godunov",
-    "year": "1868,1869",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー / V.スターソフ",
-    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
-  },
-  {
-    "catalog": "M5",
-    "category": "opera",
-    "titleJ": "ホヴァーンシチナ",
-    "title": "Khovanshchina",
-    "year": "1872,1873,1874,1875,1876,1877,1878,1879,1880",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク"
-  },
-  {
-    "catalog": "M6",
-    "category": "opera",
-    "titleJ": "プガチョフシチナ",
-    "title": "Pugachovshchina",
-    "year": "1877",
-    "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
-  },
-  {
-    "catalog": "M7",
-    "category": "opera",
-    "titleJ": "ソロチンツィの定期市",
-    "title": "Sorochintsï Fair",
-    "year": "1874,1875,1876,1877,1878,1879,1880",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ"
-  },
-  {
-    "catalog": "M8",
-    "category": "opera",
-    "titleJ": "サランボー",
-    "title": "Salammbô",
-    "year": "1863,1864,1865,1866",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
-  },
-  {
-    "catalog": "M9",
     "category": "opera",
     "titleJ": "アテネのエディプス王",
     "title": "Oedipus in Athens",
@@ -90,14 +20,84 @@ works = [
     "notes": "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)"
   },
   {
+    "catalog": "M3",
+    "category": "opera",
+    "titleJ": "サランボー",
+    "title": "Salammbô",
+    "year": "1863,1864,1865,1866",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
+  },
+  {
+    "catalog": "M4",
+    "category": "opera",
+    "titleJ": "結婚",
+    "title": "Marriage",
+    "year": "1868",
+    "ensemble": "Opera",
+    "text": "N.ゴーゴリ",
+    "notes": "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)"
+  },
+  {
+    "catalog": "M5",
+    "category": "opera",
+    "titleJ": "ボリス・ゴドゥノフ",
+    "title": "Boris Godunov",
+    "year": "1868,1869",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー / V.スターソフ",
+    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
+  },
+  {
+    "catalog": "M6",
+    "category": "opera",
+    "titleJ": "水呑百姓",
+    "title": "Bobyl'",
+    "year": "1870",
+    "ensemble": "Opera",
+    "text": "-",
+    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
+  },
+  {
+    "catalog": "M7",
+    "category": "opera",
+    "titleJ": "ムラダ",
+    "title": "Mlada",
+    "year": "1872",
+    "ensemble": "Opera",
+    "text": "V.A.クルイローフ",
+    "notes": "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存 "
+  },
+  {
+    "catalog": "M8",
+    "category": "opera",
+    "titleJ": "ホヴァーンシチナ",
+    "title": "Khovanshchina",
+    "year": "1872,1873,1874,1875,1876,1877,1878,1879,1880",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク"
+  },
+  {
+    "catalog": "M9",
+    "category": "opera",
+    "titleJ": "ソロチンツィの定期市",
+    "title": "Sorochintsï Fair",
+    "year": "1874,1875,1876,1877,1878,1879,1880",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ"
+  },
+  {
     "catalog": "M10",
     "category": "opera",
-    "titleJ": "アイスランドのハン",
-    "title": "Hans of Iceland",
-    "year": "1856",
+    "titleJ": "プガチョフシチナ",
+    "title": "Pugachovshchina",
+    "year": "1877",
     "ensemble": "Opera",
-    "text": "V.ユゴー",
-    "notes": "計画のみ。V.ユゴーの小説に基づく "
+    "text": "-",
+    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
   },
   {
     "catalog": "M11",
