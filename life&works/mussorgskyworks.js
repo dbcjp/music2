@@ -879,7 +879,7 @@ works = [
     "category": "song",
     "titleJ": "歌曲集『死の歌と踊り』",
     "title": "Songs and Dances of Death",
-    "year": "1875,1877",
+    "year": "1875,1876,1877",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
     "notes": "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
