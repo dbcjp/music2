@@ -2,35 +2,15 @@ works = [
   {
     "catalog": "M1",
     "category": "opera",
-    "titleJ": "アイスランドのハン",
-    "title": "Hans of Iceland",
-    "year": "1856",
+    "titleJ": "水呑百姓",
+    "title": "Bobyl'",
+    "year": "1870",
     "ensemble": "Opera",
-    "text": "V.ユゴー",
-    "notes": "計画のみ。V.ユゴーの小説に基づく "
+    "text": "-",
+    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
   },
   {
     "catalog": "M2",
-    "category": "opera",
-    "titleJ": "アテネのエディプス王",
-    "title": "Oedipus in Athens",
-    "year": "1858,1859,1860",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー / V.A.オゼロフ",
-    "notes": "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)"
-  },
-  {
-    "catalog": "M3",
-    "category": "opera",
-    "titleJ": "サランボー",
-    "title": "Salammbô",
-    "year": "1863,1864,1865,1866",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
-  },
-  {
-    "catalog": "M4",
     "category": "opera",
     "titleJ": "結婚",
     "title": "Marriage",
@@ -40,27 +20,7 @@ works = [
     "notes": "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)"
   },
   {
-    "catalog": "M5",
-    "category": "opera",
-    "titleJ": "ボリス・ゴドゥノフ",
-    "title": "Boris Godunov",
-    "year": "1868,1869",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー / V.スターソフ",
-    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
-  },
-  {
-    "catalog": "M6",
-    "category": "opera",
-    "titleJ": "水呑百姓",
-    "title": "Bobyl'",
-    "year": "1870",
-    "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
-  },
-  {
-    "catalog": "M7",
+    "catalog": "M3",
     "category": "opera",
     "titleJ": "ムラダ",
     "title": "Mlada",
@@ -70,7 +30,17 @@ works = [
     "notes": "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存 "
   },
   {
-    "catalog": "M8",
+    "catalog": "M4",
+    "category": "opera",
+    "titleJ": "ボリス・ゴドゥノフ",
+    "title": "Boris Godunov",
+    "year": "1868,1869",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー / V.スターソフ",
+    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
+  },
+  {
+    "catalog": "M5",
     "category": "opera",
     "titleJ": "ホヴァーンシチナ",
     "title": "Khovanshchina",
@@ -80,7 +50,17 @@ works = [
     "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク"
   },
   {
-    "catalog": "M9",
+    "catalog": "M6",
+    "category": "opera",
+    "titleJ": "プガチョフシチナ",
+    "title": "Pugachovshchina",
+    "year": "1877",
+    "ensemble": "Opera",
+    "text": "-",
+    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
+  },
+  {
+    "catalog": "M7",
     "category": "opera",
     "titleJ": "ソロチンツィの定期市",
     "title": "Sorochintsï Fair",
@@ -90,14 +70,34 @@ works = [
     "notes": "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ"
   },
   {
+    "catalog": "M8",
+    "category": "opera",
+    "titleJ": "サランボー",
+    "title": "Salammbô",
+    "year": "1863,1864,1865,1866",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
+  },
+  {
+    "catalog": "M9",
+    "category": "opera",
+    "titleJ": "アテネのエディプス王",
+    "title": "Oedipus in Athens",
+    "year": "1858,1859,1860",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー / V.A.オゼロフ",
+    "notes": "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)"
+  },
+  {
     "catalog": "M10",
     "category": "opera",
-    "titleJ": "プガチョフシチナ",
-    "title": "Pugachovshchina",
-    "year": "1877",
+    "titleJ": "アイスランドのハン",
+    "title": "Hans of Iceland",
+    "year": "1856",
     "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
+    "text": "V.ユゴー",
+    "notes": "計画のみ。V.ユゴーの小説に基づく "
   },
   {
     "catalog": "M11",
@@ -178,7 +178,8 @@ works = [
     "title": "Porte-enseigne (Polka)",
     "year": "1852",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "0i7idhRg4mQ"
   },
   {
     "catalog": "M20",
@@ -187,7 +188,8 @@ works = [
     "title": "Souvenir of Childhood",
     "year": "1857",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "f_eVeB2WeGQ"
   },
   {
     "catalog": "M21",
@@ -214,7 +216,8 @@ works = [
     "title": "Scherzo in C sharp minor",
     "year": "1858",
     "ensemble": "pf",
-    "notes": "4手のためのピアノソナタの第2楽章に編曲"
+    "notes": "4手のためのピアノソナタの第2楽章に編曲",
+    "url": "hMbxa4SPIRQ"
   },
   {
     "catalog": "M24",
@@ -232,7 +235,8 @@ works = [
     "title": "Passionate Impromptu",
     "year": "1859",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "A1Ibv-joHvs"
   },
   {
     "catalog": "M26",
@@ -241,7 +245,8 @@ works = [
     "title": "Children's Games",
     "year": "1859",
     "ensemble": "pf",
-    "notes": "1860年改訂"
+    "notes": "1860年改訂",
+    "url": "gTLn7_lV8fs"
   },
   {
     "catalog": "M27",
@@ -250,7 +255,8 @@ works = [
     "title": "Allegro and Scherzo in C major",
     "year": "1860",
     "ensemble": "pf",
-    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく"
+    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく",
+    "url": "QRWugc2TxXo,2SCjiagimhw"
   },
   {
     "catalog": "M28",
@@ -268,7 +274,8 @@ works = [
     "title": "Intermezzo in the Classic Style (2)",
     "year": "1860,1861",
     "ensemble": "pf",
-    "notes": "後に管弦楽編曲"
+    "notes": "後に管弦楽編曲",
+    "url": "zDjWswxyEHs"
   },
   {
     "catalog": "M30",
@@ -286,7 +293,8 @@ works = [
     "title": "From Memories of Childhood",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰"
+    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰",
+    "url": "2cWH-Qlo_uk,AhjdF9vKJdc"
   },
   {
     "catalog": "M32",
@@ -295,7 +303,8 @@ works = [
     "title": "Rêverie",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "『夢想』とも。"
+    "notes": "『夢想』とも。",
+    "url": "5Mr1xYP98oU"
   },
   {
     "catalog": "M33",
@@ -304,7 +313,8 @@ works = [
     "title": "La Capricieuse",
     "year": "1865",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "memihNovR6A"
   },
   {
     "catalog": "M34",
@@ -313,7 +323,8 @@ works = [
     "title": "The Seamstress (Scherzino)",
     "year": "1871",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "zVOAEFInFps"
   },
   {
     "catalog": "M35",
@@ -322,7 +333,8 @@ works = [
     "title": "Pictures from an Exhibition",
     "year": "1874",
     "ensemble": "pf",
-    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり"
+    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり",
+    "url": "jDX4MVXy_cA,Nk4zKZ9DII8,aAsNOSlejJI,kbELrbbt7BU,4WLvqh9xRrY,gQ03Myt9wVo,f1hfah72vx0,mfXKYgFaJb0,Nz66mjsq4hw,srBGM27-vTI,8My4xYx1ZVI,qWCnQy9NrQs,Vv4x6FkNuOs,6JZon8wm0L4,T9opE0wowR8,mktcvFYEiCk"
   },
   {
     "catalog": "M36",
@@ -340,7 +352,8 @@ works = [
     "title": "Near the Southern Shore of the Crimea",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "全2曲"
+    "notes": "全2曲",
+    "url": "GwJROOEuz3o"
   },
   {
     "catalog": "M38",
@@ -349,7 +362,8 @@ works = [
     "title": "Meditation (album leaf)",
     "year": "1880",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "srnPcxZSDHY"
   },
   {
     "catalog": "M39",
@@ -358,7 +372,8 @@ works = [
     "title": "A Tear",
     "year": "1880",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "SCsbLmgdw7A"
   },
   {
     "catalog": "M40",
@@ -367,7 +382,8 @@ works = [
     "title": "In the Village",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲"
+    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲",
+    "url": "qTMBMp59_6I"
   },
   {
     "catalog": "M41",
@@ -403,7 +419,7 @@ works = [
     "title": "Five Russian Folksongs",
     "year": "1880",
     "ensemble": "男声4部cho",
-    "notes": "全5曲。/第1曲 話して、かわいい娘よ/第2曲 昇れ、赤い太陽よ/第3曲 お父様の戸口で/第4曲 ああ、自由よ/第5曲 未完"
+    "notes": "全5曲。第1曲 話して、かわいい娘よ／第2曲 昇れ、赤い太陽よ／第3曲 お父様の戸口で／第4曲 ああ、自由よ／第5曲 未完"
   },
   {
     "catalog": "M45",
@@ -822,7 +838,7 @@ works = [
     "year": "1868,1869,1870,1871,1872",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "全7曲。/第1曲 ばあやと/第2曲 部屋の隅/第3曲 かぶと虫/第4曲 お人形と一緒に/第5曲 夕べの祈り/第6曲 木馬に乗って/第7曲 いたずら猫"
+    "notes": "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫"
   },
   {
     "catalog": "M87",
@@ -852,7 +868,7 @@ works = [
     "year": "1874",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": "全6曲。/第1曲 壁に囲まれて/第2曲 群衆の中であなたは私に気付かなかった/第3曲 騒がしい日も終わり/第4曲 倦怠/第5曲 エレジー/第6曲 川の上で"
+    "notes": "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で"
   },
   {
     "catalog": "M90",
@@ -879,10 +895,10 @@ works = [
     "category": "song",
     "titleJ": "歌曲集『死の歌と踊り』",
     "title": "Songs and Dances of Death",
-    "year": "1875,1876,1877",
+    "year": "1875,1877",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": "全4曲。/第1曲 子守歌/第2曲 セレナード/第3曲 トレパーク/第4曲 司令官"
+    "notes": "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
   },
   {
     "catalog": "M93",
