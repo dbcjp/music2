@@ -87,7 +87,8 @@ works = [
     "year": "1858,1859,1860",
     "ensemble": "Opera",
     "text": "ムソルグスキー / V.A.オゼロフ",
-    "notes": "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)"
+    "notes": "未完、合唱曲『民衆の合唱』のみ現存。V.A.オゼロフの悲劇に基づく 初演:1861(合唱曲のみ)",
+    "url": "r_-YpsPJ-_Y"
   },
   {
     "catalog": "M10",
@@ -106,7 +107,8 @@ works = [
     "title": "Scherzo in B flat major (Orch)",
     "year": "1858",
     "ensemble": "Orch",
-    "notes": "原曲はピアノ曲"
+    "notes": "原曲はピアノ曲",
+    "url": "dwtDl6UVTHc"
   },
   {
     "catalog": "M12",
@@ -115,7 +117,8 @@ works = [
     "title": "Alla marcia notturna",
     "year": "1861",
     "ensemble": "Orch",
-    "notes": ""
+    "notes": "",
+    "url": "hNnjRGGlt5w"
   },
   {
     "catalog": "M13",
@@ -133,7 +136,8 @@ works = [
     "title": "St. John's Night on the Bare Mountain",
     "year": "1867",
     "ensemble": "pf,Orch",
-    "notes": "『禿山の一夜』の原曲、1886年リムスキー＝コルサコフ管弦楽編曲"
+    "notes": "『禿山の一夜』の原曲、1886年リムスキー＝コルサコフ管弦楽編曲",
+    "url": "gm8ex1xr5Is"
   },
   {
     "catalog": "M15",
@@ -142,7 +146,8 @@ works = [
     "title": "Intermezzo symphonique in modo classico",
     "year": "1867",
     "ensemble": "Orch",
-    "notes": "既存のピアノ曲に新しいトリオを付けて編曲"
+    "notes": "既存のピアノ曲に新しいトリオを付けて編曲",
+    "url": "TBH-RKe0Ens"
   },
   {
     "catalog": "M16",
@@ -160,7 +165,8 @@ works = [
     "title": "The Capture of Kars",
     "year": "1880",
     "ensemble": "Orch",
-    "notes": "原曲は『ムラダ』の「公と僧侶たちの行進」"
+    "notes": "原曲は『ムラダ』の「公と僧侶たちの行進」",
+    "url": "G8RIrsiO9kg"
   },
   {
     "catalog": "M18",
@@ -401,7 +407,8 @@ works = [
     "title": "The Destruction of Sennacherib",
     "year": "1866,1867",
     "ensemble": "cho,Orch",
-    "notes": "バイロンによる。1873-74年改訂"
+    "notes": "バイロンによる。1873-74年改訂",
+    "url": "GGEr8W5GqJI"
   },
   {
     "catalog": "M43",
@@ -410,7 +417,8 @@ works = [
     "title": "Iisus Navin (Joshua)",
     "year": "1874,1875,1876,1877",
     "ensemble": "Ms,Br,cho,pf",
-    "notes": "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）"
+    "notes": "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）、演奏にはSalammbo: Chorus of Priestessesを付け加えた。",
+    "url": "XZicXR0CXns,gVR1AU1YHG0"
   },
   {
     "catalog": "M44",
