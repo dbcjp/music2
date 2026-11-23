@@ -178,8 +178,7 @@ works = [
     "title": "Porte-enseigne (Polka)",
     "year": "1852",
     "ensemble": "pf",
-    "notes": "",
-    "url": "0i7idhRg4mQ"
+    "notes": ""
   },
   {
     "catalog": "M20",
@@ -188,8 +187,7 @@ works = [
     "title": "Souvenir of Childhood",
     "year": "1857",
     "ensemble": "pf",
-    "notes": "",
-    "url": "f_eVeB2WeGQ"
+    "notes": ""
   },
   {
     "catalog": "M21",
@@ -216,8 +214,7 @@ works = [
     "title": "Scherzo in C sharp minor",
     "year": "1858",
     "ensemble": "pf",
-    "notes": "4手のためのピアノソナタの第2楽章に編曲",
-    "url": "hMbxa4SPIRQ"
+    "notes": "4手のためのピアノソナタの第2楽章に編曲"
   },
   {
     "catalog": "M24",
@@ -235,8 +232,7 @@ works = [
     "title": "Passionate Impromptu",
     "year": "1859",
     "ensemble": "pf",
-    "notes": "",
-    "url": "A1Ibv-joHvs"
+    "notes": ""
   },
   {
     "catalog": "M26",
@@ -245,8 +241,7 @@ works = [
     "title": "Children's Games",
     "year": "1859",
     "ensemble": "pf",
-    "notes": "1860年改訂",
-    "url": "gTLn7_lV8fs"
+    "notes": "1860年改訂"
   },
   {
     "catalog": "M27",
@@ -255,8 +250,7 @@ works = [
     "title": "Allegro and Scherzo in C major",
     "year": "1860",
     "ensemble": "pf",
-    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく",
-    "url": "QRWugc2TxXo,2SCjiagimhw"
+    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく"
   },
   {
     "catalog": "M28",
@@ -274,8 +268,7 @@ works = [
     "title": "Intermezzo in the Classic Style (2)",
     "year": "1860,1861",
     "ensemble": "pf",
-    "notes": "後に管弦楽編曲",
-    "url": "zDjWswxyEHs"
+    "notes": "後に管弦楽編曲"
   },
   {
     "catalog": "M30",
@@ -293,8 +286,7 @@ works = [
     "title": "From Memories of Childhood",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰",
-    "url": "2cWH-Qlo_uk,AhjdF9vKJdc"
+    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰"
   },
   {
     "catalog": "M32",
@@ -303,8 +295,7 @@ works = [
     "title": "Rêverie",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "『夢想』とも。",
-    "url": "5Mr1xYP98oU"
+    "notes": "『夢想』とも。"
   },
   {
     "catalog": "M33",
@@ -313,8 +304,7 @@ works = [
     "title": "La Capricieuse",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "",
-    "url": "memihNovR6A"
+    "notes": ""
   },
   {
     "catalog": "M34",
@@ -323,8 +313,7 @@ works = [
     "title": "The Seamstress (Scherzino)",
     "year": "1871",
     "ensemble": "pf",
-    "notes": "",
-    "url": "zVOAEFInFps"
+    "notes": ""
   },
   {
     "catalog": "M35",
@@ -333,8 +322,7 @@ works = [
     "title": "Pictures from an Exhibition",
     "year": "1874",
     "ensemble": "pf",
-    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり",
-    "url": "jDX4MVXy_cA,Nk4zKZ9DII8,aAsNOSlejJI,kbELrbbt7BU,4WLvqh9xRrY,gQ03Myt9wVo,f1hfah72vx0,mfXKYgFaJb0,Nz66mjsq4hw,srBGM27-vTI,8My4xYx1ZVI,qWCnQy9NrQs,Vv4x6FkNuOs,6JZon8wm0L4,T9opE0wowR8,mktcvFYEiCk"
+    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり"
   },
   {
     "catalog": "M36",
@@ -352,8 +340,7 @@ works = [
     "title": "Near the Southern Shore of the Crimea",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "全2曲",
-    "url": "GwJROOEuz3o"
+    "notes": "全2曲"
   },
   {
     "catalog": "M38",
@@ -362,8 +349,7 @@ works = [
     "title": "Meditation (album leaf)",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "",
-    "url": "srnPcxZSDHY"
+    "notes": ""
   },
   {
     "catalog": "M39",
@@ -372,8 +358,7 @@ works = [
     "title": "A Tear",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "",
-    "url": "SCsbLmgdw7A"
+    "notes": ""
   },
   {
     "catalog": "M40",
@@ -382,8 +367,7 @@ works = [
     "title": "In the Village",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲",
-    "url": "qTMBMp59_6I"
+    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲"
   },
   {
     "catalog": "M41",
@@ -438,7 +422,8 @@ works = [
     "year": "1857",
     "ensemble": "独唱,pf",
     "text": "N.P.グレコフ",
-    "notes": "『星よ、お前はどこに』"
+    "notes": "『星よ、お前はどこに』",
+    "url": "FvQ3vZIeWo0"
   },
   {
     "catalog": "M47",
@@ -448,17 +433,19 @@ works = [
     "year": "1858",
     "ensemble": "独唱,Orch",
     "text": "N.P.グレコフ",
-    "notes": "『小さな星よ、お前はどこに？ 田舎の歌』の管弦楽改訂版、1858年6月3日〜4日"
+    "notes": "『小さな星よ、お前はどこに？ 田舎の歌』の管弦楽改訂版、1858年6月3日〜4日",
+    "url": "p0L9XXV055o"
   },
   {
     "catalog": "M48",
     "category": "song",
     "titleJ": "私の心の憧れ",
-    "title": "Thou Longing of My Heart",
+    "title": "Meines Herzens Sehnsucht (Thou Longing of My Heart)",
     "year": "1858",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "自筆譜紛失、ドイツ語のテキスト"
+    "notes": "自筆譜紛失、ドイツ語のテキスト",
+    "url": "v1zSshiuZb8"
   },
   {
     "catalog": "M49",
@@ -468,7 +455,8 @@ works = [
     "year": "1858",
     "ensemble": "独唱,pf",
     "text": "A.S.プーシキン?",
-    "notes": ""
+    "notes": "",
+    "url": "pog97YKJr6g"
   },
   {
     "catalog": "M50",
@@ -478,7 +466,8 @@ works = [
     "year": "1858",
     "ensemble": "独唱,pf",
     "text": "A.V.コリツォフ",
-    "notes": ""
+    "notes": "",
+    "url": "7o-7ywojX3Q"
   },
   {
     "catalog": "M51",
@@ -488,7 +477,8 @@ works = [
     "year": "1858",
     "ensemble": "独唱,pf",
     "text": "A.N.プレシチェエフ",
-    "notes": ""
+    "notes": "",
+    "url": "vBLBqp6s5R8"
   },
   {
     "catalog": "M52",
@@ -498,7 +488,8 @@ works = [
     "year": "1860",
     "ensemble": "独唱,pf",
     "text": "A.アンモーソフ",
-    "notes": ""
+    "notes": "",
+    "url": "F5Q9u0OKO_4"
   },
   {
     "catalog": "M53",
@@ -508,7 +499,8 @@ works = [
     "year": "1860",
     "ensemble": "独唱,pf",
     "text": "A.V.コリツォフ",
-    "notes": ""
+    "notes": "",
+    "url": "7dfndkfJNsQ"
   },
   {
     "catalog": "M54",
@@ -518,7 +510,8 @@ works = [
     "year": "1863",
     "ensemble": "独唱,pf",
     "text": "J.W.v.ゲーテ",
-    "notes": ""
+    "notes": "",
+    "url": "NrhI3I4yGyU"
   },
   {
     "catalog": "M55",
@@ -528,7 +521,8 @@ works = [
     "year": "1863",
     "ensemble": "独唱,pf",
     "text": "G.G.バイロン／P.コズロフ訳",
-    "notes": "第2版あり"
+    "notes": "第2版あり",
+    "url": "aGBI0RN28uk"
   },
   {
     "catalog": "M56",
@@ -548,7 +542,8 @@ works = [
     "year": "1863",
     "ensemble": "独唱,pf",
     "text": "V.S.クローチキン",
-    "notes": ""
+    "notes": "",
+    "url": "gtk25x8EwwE"
   },
   {
     "catalog": "M58",
@@ -558,7 +553,8 @@ works = [
     "year": "1864",
     "ensemble": "独唱,pf",
     "text": "A.V.コリツォフ",
-    "notes": ""
+    "notes": "",
+    "url": "tqtirhG0NY0"
   },
   {
     "catalog": "M59",
@@ -568,7 +564,8 @@ works = [
     "year": "1864",
     "ensemble": "独唱,pf",
     "text": "A.I.ネクラーソフ",
-    "notes": ""
+    "notes": "",
+    "url": "75G7H4_1G3M"
   },
   {
     "catalog": "M60",
@@ -578,7 +575,8 @@ works = [
     "year": "1864",
     "ensemble": "独唱,pf",
     "text": "A.I.ネクラーソフ",
-    "notes": "『カリストラートゥシュカ』の改訂版"
+    "notes": "『カリストラートゥシュカ』の改訂版",
+    "url": "fo89wTlTqAg"
   },
   {
     "catalog": "M61",
@@ -588,7 +586,8 @@ works = [
     "year": "1864",
     "ensemble": "独唱,pf",
     "text": "A.S.プーシキン",
-    "notes": ""
+    "notes": "",
+    "url": "YTfwERhLY48"
   },
   {
     "catalog": "M62",
@@ -598,7 +597,8 @@ works = [
     "year": "1865",
     "ensemble": "独唱,pf",
     "text": "M.Y.レールモントフ",
-    "notes": ""
+    "notes": "",
+    "url": "OoScopZUzX0"
   },
   {
     "catalog": "M63",
@@ -608,7 +608,8 @@ works = [
     "year": "1865",
     "ensemble": "独唱,pf",
     "text": "I.ホルツ=ミュラー",
-    "notes": ""
+    "notes": "",
+    "url": "A2dJCvVd9gc"
   },
   {
     "catalog": "M64",
@@ -618,7 +619,8 @@ works = [
     "year": "1865",
     "ensemble": "独唱,pf",
     "text": "A.N.オストロフスキー",
-    "notes": "『安らかに眠れ、農夫の子よ』に改訂"
+    "notes": "『安らかに眠れ、農夫の子よ』に改訂",
+    "url": "sx08XIbnH2M"
   },
   {
     "catalog": "M65",
@@ -638,7 +640,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "Veorf5dlqZg"
   },
   {
     "catalog": "M67",
@@ -648,7 +651,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "A.N.プレシチェーエフ",
-    "notes": "または『マリュートカ』"
+    "notes": "または『マリュートカ』",
+    "url": "SFTJpzsr1PY"
   },
   {
     "catalog": "M68",
@@ -658,7 +662,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "H.ハイネ",
-    "notes": ""
+    "notes": "",
+    "url": "MmJuVe8h5-k"
   },
   {
     "catalog": "M69",
@@ -668,7 +673,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "H.ハイネ／M.L.ミハイロフ訳",
-    "notes": ""
+    "notes": "",
+    "url": "--AKBJJ80tc"
   },
   {
     "catalog": "M70",
@@ -678,7 +684,8 @@ works = [
     "year": "1866",
     "ensemble": "A,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "Pot88ECy4xU"
   },
   {
     "catalog": "M71",
@@ -688,7 +695,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "T.G.シェフチェンコ／L.A.メイ訳",
-    "notes": "1868年に管弦楽伴奏版作成"
+    "notes": "1868年に管弦楽伴奏版作成",
+    "url": "xJ_wQfUZL9Q"
   },
   {
     "catalog": "M72",
@@ -698,7 +706,8 @@ works = [
     "year": "1866",
     "ensemble": "独唱,pf",
     "text": "T.G.シェフチェンコ／L.A.メイ訳",
-    "notes": "1879年改訂"
+    "notes": "1879年改訂",
+    "url": "7OmMOKchwBA"
   },
   {
     "catalog": "M73",
@@ -718,7 +727,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "L.A.メイ",
-    "notes": ""
+    "notes": "",
+    "url": "qhHqycOj2WI"
   },
   {
     "catalog": "M75",
@@ -728,7 +738,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "A.S.プーシキン",
-    "notes": ""
+    "notes": "",
+    "url": "mhDzd8boqU4"
   },
   {
     "catalog": "M76",
@@ -738,7 +749,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "U1NmzZpfwQA"
   },
   {
     "catalog": "M77",
@@ -748,7 +760,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "L.A.メイ",
-    "notes": ""
+    "notes": "",
+    "url": "9Q5F507v4R8"
   },
   {
     "catalog": "M78",
@@ -758,7 +771,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "A.V.コリツォフ",
-    "notes": ""
+    "notes": "",
+    "url": "fH2zeZNLGnE"
   },
   {
     "catalog": "M79",
@@ -768,7 +782,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "G7jusLivCIQ"
   },
   {
     "catalog": "M80",
@@ -778,7 +793,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "k5XKcyn-KGQ"
   },
   {
     "catalog": "M81",
@@ -788,7 +804,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "BSISS9dXLPM"
   },
   {
     "catalog": "M82",
@@ -798,7 +815,8 @@ works = [
     "year": "1867",
     "ensemble": "独唱,pf",
     "text": "A.V.コリツォフ",
-    "notes": ""
+    "notes": "",
+    "url": "LmsgD9UlIgo"
   },
   {
     "catalog": "M83",
@@ -808,7 +826,8 @@ works = [
     "year": "1868",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "cjok2VIZ1LQ"
   },
   {
     "catalog": "M84",
@@ -818,7 +837,8 @@ works = [
     "year": "1868",
     "ensemble": "独唱,pf",
     "text": "L.A.メイ",
-    "notes": ""
+    "notes": "",
+    "url": "odVEqdhDpow"
   },
   {
     "catalog": "M85",
@@ -828,7 +848,8 @@ works = [
     "year": "1868",
     "ensemble": "独唱,pf",
     "text": "A.I.ネクラーエフ",
-    "notes": ""
+    "notes": "",
+    "url": "2_-Loetb1Ak"
   },
   {
     "catalog": "M86",
@@ -838,7 +859,8 @@ works = [
     "year": "1868,1869,1870,1871,1872",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫"
+    "notes": "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫",
+    "url": "HK0n5nA17JI,rotGXq0GoEE,3oSYj8x35jk,hqYsec89ySE,K1LyDXb4A3E,WIREaFpC1FA,I-dU4tq3vd4"
   },
   {
     "catalog": "M87",
@@ -848,7 +870,8 @@ works = [
     "year": "1871",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "『人形芝居』とも"
+    "notes": "『人形芝居』とも",
+    "url": "-vfC3eTKHvM"
   },
   {
     "catalog": "M88",
@@ -858,7 +881,8 @@ works = [
     "year": "1871",
     "ensemble": "独唱,pf",
     "text": "A.N.プレシチェーエフ?",
-    "notes": ""
+    "notes": "",
+    "url": "KV6OMlgKsYY"
   },
   {
     "catalog": "M89",
@@ -868,7 +892,8 @@ works = [
     "year": "1874",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で"
+    "notes": "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で",
+    "url": "yMSgwzfr5cE,gR4Uc4Q1RQw,Kq0TbHJJsC8,ez8I00P9uvA,qrrIianIjIA,fdl5kCAQmeA"
   },
   {
     "catalog": "M90",
@@ -878,7 +903,8 @@ works = [
     "year": "1874",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": "またはバラード"
+    "notes": "またはバラード",
+    "url": "8EvZRkrDd6s"
   },
   {
     "catalog": "M91",
@@ -888,7 +914,8 @@ works = [
     "year": "1874",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "未完"
+    "notes": "未完",
+    "url": "Duo9JuGpL6I"
   },
   {
     "catalog": "M92",
@@ -898,7 +925,8 @@ works = [
     "year": "1875,1877",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官"
+    "notes": "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官",
+    "url": "8se4w4xjzm8,gz33LyTAnHw,eSByj1qg1rM,I3yS_6VUd8Y"
   },
   {
     "catalog": "M93",
@@ -908,7 +936,8 @@ works = [
     "year": "1874",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": "未完、カラチギン補筆完成"
+    "notes": "未完、カラチギン補筆完成",
+    "url": "CD3nQPu6lBI"
   },
   {
     "catalog": "M94",
@@ -918,7 +947,8 @@ works = [
     "year": "1875",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
-    "notes": ""
+    "notes": "",
+    "url": "4-mVxba8oI0"
   },
   {
     "catalog": "M95",
@@ -938,7 +968,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.K.トルストイ",
-    "notes": ""
+    "notes": "",
+    "url": "RBgWkdZ2b5Y"
   },
   {
     "catalog": "M97",
@@ -948,7 +979,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.K.トルストイ",
-    "notes": ""
+    "notes": "",
+    "url": "kSdt5kriMas"
   },
   {
     "catalog": "M98",
@@ -958,7 +990,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.K.トルストイ",
-    "notes": ""
+    "notes": "",
+    "url": "yqKkNMIGUCE"
   },
   {
     "catalog": "M99",
@@ -968,7 +1001,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.K.トルストイ",
-    "notes": ""
+    "notes": "",
+    "url": "Y-5CMOa43bg"
   },
   {
     "catalog": "M100",
@@ -978,7 +1012,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.K.トルストイ",
-    "notes": ""
+    "notes": "",
+    "url": "A1ARDyetRRM"
   },
   {
     "catalog": "M101",
@@ -988,7 +1023,8 @@ works = [
     "year": "1877",
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
-    "notes": ""
+    "notes": "",
+    "url": "PdqIWteJ28U"
   },
   {
     "catalog": "M102",
@@ -998,7 +1034,8 @@ works = [
     "year": "1878",
     "ensemble": "独唱,pf",
     "text": "F.リュッケルト／A.N.プレシチェーエフ訳",
-    "notes": ""
+    "notes": "",
+    "url": "zrb1RVUl-GM"
   },
   {
     "catalog": "M103",
@@ -1008,6 +1045,7 @@ works = [
     "year": "1879",
     "ensemble": "独唱,pf",
     "text": "J.W.v.ゲーテ／A.P.ストルゴフシチコフ訳",
-    "notes": "または『アウエルバッハの酒倉でのメフィストフェレスの歌』"
+    "notes": "または『アウエルバッハの酒倉でのメフィストフェレスの歌』",
+    "url": "C3adY0TjoXw"
   }
 ];
