@@ -178,7 +178,8 @@ works = [
     "title": "Porte-enseigne (Polka)",
     "year": "1852",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "0i7idhRg4mQ"
   },
   {
     "catalog": "M20",
@@ -187,7 +188,8 @@ works = [
     "title": "Souvenir of Childhood",
     "year": "1857",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "f_eVeB2WeGQ"
   },
   {
     "catalog": "M21",
@@ -214,7 +216,8 @@ works = [
     "title": "Scherzo in C sharp minor",
     "year": "1858",
     "ensemble": "pf",
-    "notes": "4手のためのピアノソナタの第2楽章に編曲"
+    "notes": "4手のためのピアノソナタの第2楽章に編曲",
+    "url": "hMbxa4SPIRQ"
   },
   {
     "catalog": "M24",
@@ -232,7 +235,8 @@ works = [
     "title": "Passionate Impromptu",
     "year": "1859",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "A1Ibv-joHvs"
   },
   {
     "catalog": "M26",
@@ -241,7 +245,8 @@ works = [
     "title": "Children's Games",
     "year": "1859",
     "ensemble": "pf",
-    "notes": "1860年改訂"
+    "notes": "1860年改訂",
+    "url": "gTLn7_lV8fs"
   },
   {
     "catalog": "M27",
@@ -250,7 +255,8 @@ works = [
     "title": "Allegro and Scherzo in C major",
     "year": "1860",
     "ensemble": "pf",
-    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく"
+    "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく",
+    "url": "QRWugc2TxXo,2SCjiagimhw"
   },
   {
     "catalog": "M28",
@@ -268,7 +274,8 @@ works = [
     "title": "Intermezzo in the Classic Style (2)",
     "year": "1860,1861",
     "ensemble": "pf",
-    "notes": "後に管弦楽編曲"
+    "notes": "後に管弦楽編曲",
+    "url": "zDjWswxyEHs"
   },
   {
     "catalog": "M30",
@@ -286,7 +293,8 @@ works = [
     "title": "From Memories of Childhood",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰"
+    "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰",
+    "url": "2cWH-Qlo_uk,AhjdF9vKJdc"
   },
   {
     "catalog": "M32",
@@ -295,7 +303,8 @@ works = [
     "title": "Rêverie",
     "year": "1865",
     "ensemble": "pf",
-    "notes": "『夢想』とも。"
+    "notes": "『夢想』とも。",
+    "url": "5Mr1xYP98oU"
   },
   {
     "catalog": "M33",
@@ -304,7 +313,8 @@ works = [
     "title": "La Capricieuse",
     "year": "1865",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "memihNovR6A"
   },
   {
     "catalog": "M34",
@@ -313,7 +323,8 @@ works = [
     "title": "The Seamstress (Scherzino)",
     "year": "1871",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "zVOAEFInFps"
   },
   {
     "catalog": "M35",
@@ -322,7 +333,8 @@ works = [
     "title": "Pictures from an Exhibition",
     "year": "1874",
     "ensemble": "pf",
-    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり"
+    "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり",
+    "url": "jDX4MVXy_cA,Nk4zKZ9DII8,aAsNOSlejJI,kbELrbbt7BU,4WLvqh9xRrY,gQ03Myt9wVo,f1hfah72vx0,mfXKYgFaJb0,Nz66mjsq4hw,srBGM27-vTI,8My4xYx1ZVI,qWCnQy9NrQs,Vv4x6FkNuOs,6JZon8wm0L4,T9opE0wowR8,mktcvFYEiCk"
   },
   {
     "catalog": "M36",
@@ -340,7 +352,8 @@ works = [
     "title": "Near the Southern Shore of the Crimea",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "全2曲"
+    "notes": "全2曲",
+    "url": "GwJROOEuz3o"
   },
   {
     "catalog": "M38",
@@ -349,7 +362,8 @@ works = [
     "title": "Meditation (album leaf)",
     "year": "1880",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "srnPcxZSDHY"
   },
   {
     "catalog": "M39",
@@ -358,7 +372,8 @@ works = [
     "title": "A Tear",
     "year": "1880",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "",
+    "url": "SCsbLmgdw7A"
   },
   {
     "catalog": "M40",
@@ -367,7 +382,8 @@ works = [
     "title": "In the Village",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲"
+    "notes": "オペラ『ソロチンツィの定期市』から祭りの場面とゴパックの編曲",
+    "url": "qTMBMp59_6I"
   },
   {
     "catalog": "M41",
