@@ -651,6 +651,17 @@ works = [
   {
     "catalog": "M66",
     "category": "song",
+    "titleJ": "バレアル人の歌",
+    "title": "Balearic song",
+    "year": "1864",
+    "ensemble": "独唱,pf",
+    "text": "ムソルグスキー",
+    "notes": "オペラ「サランボー」からの冒頭の歌、バレアル人とはスペイン東岸、地中海西端バレアル諸島の住民のこと。"
+    "url": "d1DNJelfexI"
+  }
+  {
+    "catalog": "M67",
+    "category": "song",
     "titleJ": "かわいいサーヴィシナ",
     "title": "Darling Savishna",
     "year": "1866",
@@ -660,7 +671,7 @@ works = [
     "url": "Veorf5dlqZg"
   },
   {
-    "catalog": "M67",
+    "catalog": "M68",
     "category": "song",
     "titleJ": "ああ、なぜお前の目は冷たいのか",
     "title": "Dear one, why are thine eyes sometimes so cold?",
@@ -671,7 +682,7 @@ works = [
     "url": "SFTJpzsr1PY"
   },
   {
-    "catalog": "M68",
+    "catalog": "M69",
     "category": "song",
     "titleJ": "願い",
     "title": "Desire",
@@ -682,7 +693,7 @@ works = [
     "url": "MmJuVe8h5-k"
   },
   {
-    "catalog": "M69",
+    "catalog": "M70",
     "category": "song",
     "titleJ": "私の涙からたくさんの花が咲き",
     "title": "From My Tears",
@@ -693,7 +704,7 @@ works = [
     "url": "--AKBJJ80tc"
   },
   {
-    "catalog": "M70",
+    "catalog": "M71",
     "category": "song",
     "titleJ": "ああ、この飲んだくれめ",
     "title": "Ah, You Drunken Sot",
@@ -704,7 +715,7 @@ works = [
     "url": "Pot88ECy4xU"
   },
   {
-    "catalog": "M71",
+    "catalog": "M72",
     "category": "song",
     "titleJ": "ゴパーク",
     "title": "Hopak",
@@ -715,7 +726,7 @@ works = [
     "url": "xJ_wQfUZL9Q"
   },
   {
-    "catalog": "M72",
+    "catalog": "M73",
     "category": "song",
     "titleJ": "ドニエプル川で",
     "title": "On the Dnieper",
@@ -726,7 +737,7 @@ works = [
     "url": "7OmMOKchwBA"
   },
   {
-    "catalog": "M73",
+    "catalog": "M74",
     "category": "song",
     "titleJ": "ヤリョーマの歌",
     "title": "Yaryoma's Song",
@@ -736,7 +747,7 @@ works = [
     "notes": "紛失"
   },
   {
-    "catalog": "M74",
+    "catalog": "M75",
     "category": "song",
     "titleJ": "ヘブライの歌",
     "title": "Hebrew Song",
@@ -747,7 +758,7 @@ works = [
     "url": "qhHqycOj2WI"
   },
   {
-    "catalog": "M75",
+    "catalog": "M76",
     "category": "song",
     "titleJ": "おしゃべりかささぎ",
     "title": "Magpie Whitesides",
@@ -758,7 +769,7 @@ works = [
     "url": "mhDzd8boqU4"
   },
   {
-    "catalog": "M76",
+    "catalog": "M77",
     "category": "song",
     "titleJ": "神学生",
     "title": "The Seminarist",
@@ -769,7 +780,7 @@ works = [
     "url": "U1NmzZpfwQA"
   },
   {
-    "catalog": "M77",
+    "catalog": "M78",
     "category": "song",
     "titleJ": "きのこ狩り",
     "title": "Gathering Mushrooms",
@@ -780,7 +791,7 @@ works = [
     "url": "9Q5F507v4R8"
   },
   {
-    "catalog": "M78",
+    "catalog": "M79",
     "category": "song",
     "titleJ": "集い",
     "title": "The Banquet",
@@ -791,7 +802,7 @@ works = [
     "url": "fH2zeZNLGnE"
   },
   {
-    "catalog": "M79",
+    "catalog": "M80",
     "category": "song",
     "titleJ": "いたずらっ子",
     "title": "The Urchin",
@@ -802,7 +813,7 @@ works = [
     "url": "G7jusLivCIQ"
   },
   {
-    "catalog": "M80",
+    "catalog": "M81",
     "category": "song",
     "titleJ": "牡羊座 - 世俗のお話",
     "title": "The Goat - A Society Tale",
@@ -813,7 +824,7 @@ works = [
     "url": "k5XKcyn-KGQ"
   },
   {
-    "catalog": "M81",
+    "catalog": "M82",
     "category": "song",
     "titleJ": "古典主義者",
     "title": "The Classicist",
@@ -824,7 +835,7 @@ works = [
     "url": "BSISS9dXLPM"
   },
   {
-    "catalog": "M82",
+    "catalog": "M83",
     "category": "song",
     "titleJ": "ドン川のほとりの花園",
     "title": "A Garden by the Don Blooms",
@@ -835,7 +846,7 @@ works = [
     "url": "LmsgD9UlIgo"
   },
   {
-    "catalog": "M83",
+    "catalog": "M84",
     "category": "song",
     "titleJ": "みなし子",
     "title": "The Orphan",
@@ -846,7 +857,7 @@ works = [
     "url": "cjok2VIZ1LQ"
   },
   {
-    "catalog": "M84",
+    "catalog": "M85",
     "category": "song",
     "titleJ": "子供の歌",
     "title": "A Child's Song",
@@ -857,7 +868,7 @@ works = [
     "url": "odVEqdhDpow"
   },
   {
-    "catalog": "M85",
+    "catalog": "M86",
     "category": "song",
     "titleJ": "エリョームシュカの子守歌",
     "title": "Yeryomushka's Lullaby",
@@ -868,7 +879,7 @@ works = [
     "url": "2_-Loetb1Ak"
   },
   {
-    "catalog": "M86",
+    "catalog": "M87",
     "category": "song",
     "titleJ": "歌曲集『子供部屋』",
     "title": "The Nursery",
@@ -879,7 +890,7 @@ works = [
     "url": "HK0n5nA17JI,rotGXq0GoEE,3oSYj8x35jk,hqYsec89ySE,K1LyDXb4A3E,WIREaFpC1FA,I-dU4tq3vd4"
   },
   {
-    "catalog": "M87",
+    "catalog": "M88",
     "category": "song",
     "titleJ": "ラヨーク",
     "title": "Rayok",
@@ -890,7 +901,7 @@ works = [
     "url": "-vfC3eTKHvM"
   },
   {
-    "catalog": "M88",
+    "catalog": "M89",
     "category": "song",
     "titleJ": "夕べの歌",
     "title": "Evening Song",
@@ -901,7 +912,7 @@ works = [
     "url": "KV6OMlgKsYY"
   },
   {
-    "catalog": "M89",
+    "catalog": "M90",
     "category": "song",
     "titleJ": "歌曲集『日の光もなく』",
     "title": "Without Sun",
@@ -912,7 +923,7 @@ works = [
     "url": "yMSgwzfr5cE,gR4Uc4Q1RQw,Kq0TbHJJsC8,ez8I00P9uvA,qrrIianIjIA,fdl5kCAQmeA"
   },
   {
-    "catalog": "M90",
+    "catalog": "M91",
     "category": "song",
     "titleJ": "忘れられた者",
     "title": "Forgotten",
@@ -923,7 +934,7 @@ works = [
     "url": "8EvZRkrDd6s"
   },
   {
-    "catalog": "M91",
+    "catalog": "M92",
     "category": "song",
     "titleJ": "草の茂る山",
     "title": "Nettle Mountain",
@@ -934,7 +945,7 @@ works = [
     "url": "Duo9JuGpL6I"
   },
   {
-    "catalog": "M92",
+    "catalog": "M93",
     "category": "song",
     "titleJ": "歌曲集『死の歌と踊り』",
     "title": "Songs and Dances of Death",
@@ -945,7 +956,7 @@ works = [
     "url": "8se4w4xjzm8,gz33LyTAnHw,eSByj1qg1rM,I3yS_6VUd8Y"
   },
   {
-    "catalog": "M93",
+    "catalog": "M94",
     "category": "song",
     "titleJ": "墓碑銘",
     "title": "The Epitaph",
@@ -956,25 +967,15 @@ works = [
     "url": "CD3nQPu6lBI"
   },
   {
-    "catalog": "M94",
+    "catalog": "M95",
     "category": "song",
-    "titleJ": "スフィンクス",
-    "title": "Sphinx",
+    "titleJ": "不思議な女 (スフィンクス、謎)",
+    "title": "The Misunderstood One (Sphinx)",
     "year": "1875",
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
     "notes": "",
     "url": "4-mVxba8oI0"
-  },
-  {
-    "catalog": "M95",
-    "category": "song",
-    "titleJ": "謎",
-    "title": "Neponyatnaya",
-    "year": "1875",
-    "ensemble": "独唱,pf",
-    "text": "ムソルグスキー",
-    "notes": ""
   },
   {
     "catalog": "M96",
