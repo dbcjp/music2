@@ -77,7 +77,8 @@ works = [
     "year": "1863,1864,1865,1866",
     "ensemble": "Opera",
     "text": "ムソルグスキー",
-    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく "
+    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく ",
+    "url": "L19SZGPGXTU,v0b4kbJ6P2A,4JWimQPzXhI,K2RTDlgX4KI,kFwIavVTM1g,or486iMz5pU,RVOt3VFAQRo,Q2MezxTi-p8,jbfr6_djLTY,hjQ3eITLypI,26jSuny6XE0,8v6xRcd06Ks"
   },
   {
     "catalog": "M9",
