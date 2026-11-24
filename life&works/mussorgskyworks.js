@@ -54,7 +54,7 @@ works = [
     "text": "ムソルグスキー / V.スターソフ",
     "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク",
     "url": "v3gqr20xwes,s2aDsYOsFoY,rIqaLpj1mgI,TfDPQ2myyQU,Mjb5PF_JtNI,LG166wKM7ec,3EC-OkNJKBg,4z4ccc9t7Cs,CCq4qItA6SY,tJeBFiahnhU,vvth85smN2I,_d1GucIp-Ds,8WJG21dgvCY,udvyewS_D8s,tD9--i2QdeA,iAXUITX9mh0,3yXNTOiXmaQ,CWlVeujysBE,YQW3I5ocGvA,qvyDKJ-4Ot0,7vyXJcWDXj4,k9NPWatIXwI,J_59RcZMddU,rtAOzplX7g8,Zs8676klflo,tfvR6lEmXsk,WpGwNRm1EUo,u_biFQBevc4,4QDTeKomc5A,d-pMGNXURwM,h6kueh4FIZ0,lI0W6HTI2Ig,ImYh6uz9Eog,dfXlnt9DsUk,MLGCUDg_n2U,-0hs5BlI-pk,wl_zqI-fZC0,QbQ96CTArh0,TsA6-9Rmegw,hJWIpMpiwqI,TKDKZldtXLI,c43thsbO7d4,dlLJMFOGAmg,RxSU-x4uGko,fBNjNZQXgdY,XF41KgkfFO4,1tPUcYWXkFQ,dJhHPOA6PYc,fluDhY0AqJg,ZsfV0L2cU_g,6gdRExmn6t4,WpiSdOJWFvA,5XTlryp4LgM,56_8QIOgJmY,qZKR2jQqOdE,Otv4ZfMJxUU,pGvt8azmobA,6pl0zEU6tJY,f8VRmTjM9hU,iV4JCZuyT2U,JMh6rgwUvKw,gAbNnwhX1V0,CfUovF3DcUI,PLU2ciPadY4,YfKeXAN24X0,GOXBYkWtBxs,tpASZ6xoEhI,t_6R-QhCS0c,uoySbyZDpME,hQ_Ll32ZU8w,f8zKQTo_eDg,doWwsqtqTwY,Ziu5hPHQ5Bs,2s-hiEkyo-M,YKUGQoR9pkA,8dNFoXxVan8,60sQHbuTMl8,2AM0T3zKgwk",
-    "parts": "Prologue-1-1,Prologue-1-2,Prologue-1-3,Prologue-1-4,Prologue-1-5,Prologue-1-6,Prologue-1-7,Prologue-2-1,Prologue-2-2,Prologue-2-3,Prologue-2-4,Act I-1-1,Act I-1-2,Act I-1-3,Act I-1-4,Act I-1-5,Act I-1-6,Act I-1-7,Act 1-1-8,Act I-2-1,Act I-2-2,Act I-2-3,Act I-2-4,Act I-2-5,Act I-2-6,Act I-2-7,Act I-2-8,Act I-2-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act II-7,Act II-8,Act II-9,Act II-10,Act II-11,Act III-1-1,Act III-1-2,Act III-1-3,Act III-1-4,Act III-1-5,Act III-1-6,Act III-2-1,Act III-2-2,Act III-2-3,Act III-2-4,Act III-2-5,Act III-2-6,Act III-2-7,Act III-2-8,Act III-2-9,Act IV-1-1 ('69),Act IV-1-2 ('69),Act IV-1-3 ('69),Act IV-1-4 ('69),Act IV-1-5 ('74),Act IV-1-6 ('74),Act IV-1-7 ('74),Act IV-1-8 ('74),Act IV-1-9 ('74),Act IV-1-10 ('74),Act IV-1-11 ('74),Act IV-1-12 ('74),Act IV-1-13 ('74),Act IV-1-14 ('74),Act IV-1-15 ('74),Act IV-2-1 ('74),Act IV-2-2 ('74),Act IV-2-3 ('74),Act IV-2-4 ('74),Act IV-2-5 ('74),Act IV-2-6 ('74),Act IV-2-7 ('74),Act IV-2-8 ('74),Act IV-2-9 ('74)"
+    "parts": "Prologue-1-1,Prologue-1-2,Pro-1-3,Pro-1-4,Pro-1-5,Pro-1-6,Pro-1-7,Pro-2-1,Pro-2-2,Pro-2-3,Pro-2-4,Act I-1-1,Act I-1-2,Act I-1-3,Act I-1-4,Act I-1-5,Act I-1-6,Act I-1-7,Act 1-1-8,Act I-2-1,Act I-2-2,Act I-2-3,Act I-2-4,Act I-2-5,Act I-2-6,Act I-2-7,Act I-2-8,Act I-2-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act II-7,Act II-8,Act II-9,Act II-10,Act II-11,Act III-1-1,Act III-1-2,Act III-1-3,Act III-1-4,Act III-1-5,Act III-1-6,Act III-2-1,Act III-2-2,Act III-2-3,Act III-2-4,Act III-2-5,Act III-2-6,Act III-2-7,Act III-2-8,Act III-2-9,Act IV-1-1 ('69),Act IV-1-2 ('69),Act IV-1-3 ('69),Act IV-1-4 ('69),Act IV-1-5 ('74),Act IV-1-6 ('74),Act IV-1-7 ('74),Act IV-1-8 ('74),Act IV-1-9 ('74),Act IV-1-10 ('74),Act IV-1-11 ('74),Act IV-1-12 ('74),Act IV-1-13 ('74),Act IV-1-14 ('74),Act IV-1-15 ('74),Act IV-2-1 ('74),Act IV-2-2 ('74),Act IV-2-3 ('74),Act IV-2-4 ('74),Act IV-2-5 ('74),Act IV-2-6 ('74),Act IV-2-7 ('74),Act IV-2-8 ('74),Act IV-2-9 ('74)"
   },
   {
     "catalog": "M6",
@@ -272,7 +272,8 @@ works = [
     "year": "1860",
     "ensemble": "pf",
     "notes": "未完のピアノソナタの2楽章。スケルツォは1858年作に基づく",
-    "url": "QRWugc2TxXo,2SCjiagimhw"
+    "url": "QRWugc2TxXo,2SCjiagimhw",
+    "parts": "Allegro,Scherzo"
   },
   {
     "catalog": "M28",
@@ -310,7 +311,8 @@ works = [
     "year": "1865",
     "ensemble": "pf",
     "notes": "全2曲。第1曲 乳母と私／第2曲 最初の罰",
-    "url": "2cWH-Qlo_uk,AhjdF9vKJdc"
+    "url": "2cWH-Qlo_uk,AhjdF9vKJdc",
+    "parts": "乳母と私,最初の罰"
   },
   {
     "catalog": "M32",
@@ -428,8 +430,9 @@ works = [
     "title": "Iisus Navin (Joshua)",
     "year": "1874,1875,1876,1877",
     "ensemble": "Ms,Br,cho,pf",
-    "notes": "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）、演奏にはSalammbo: Chorus of Priestessesを付け加えた。",
-    "url": "XZicXR0CXns,gVR1AU1YHG0"
+    "notes": "未完のオペラ『サランボー』より。管弦楽伴奏版はリムスキー=コルサコフ作成（1883）",
+    "url": "XZicXR0CXns,gVR1AU1YHG0",
+    "parts": "Iisus Navin (Joshua),Chorus of Priestesses"
   },
   {
     "catalog": "M44",
@@ -906,7 +909,8 @@ works = [
     "ensemble": "独唱,pf",
     "text": "ムソルグスキー",
     "notes": "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫",
-    "url": "HK0n5nA17JI,rotGXq0GoEE,3oSYj8x35jk,hqYsec89ySE,K1LyDXb4A3E,WIREaFpC1FA,I-dU4tq3vd4"
+    "url": "HK0n5nA17JI,rotGXq0GoEE,3oSYj8x35jk,hqYsec89ySE,K1LyDXb4A3E,WIREaFpC1FA,I-dU4tq3vd4",
+    "parts":"ばあやと一緒,部屋の隅,かぶと虫,お人形と一緒に,夕べの祈り,木馬に乗って,いたずら猫"
   },
   {
     "catalog": "M88",
@@ -939,7 +943,8 @@ works = [
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
     "notes": "全6曲。第1曲 壁に囲まれて／第2曲 群衆の中であなたは私に気付かなかった／第3曲 騒がしい日も終わり／第4曲 倦怠／第5曲 エレジー／第6曲 川の上で",
-    "url": "yMSgwzfr5cE,gR4Uc4Q1RQw,Kq0TbHJJsC8,ez8I00P9uvA,qrrIianIjIA,fdl5kCAQmeA"
+    "url": "yMSgwzfr5cE,gR4Uc4Q1RQw,Kq0TbHJJsC8,ez8I00P9uvA,qrrIianIjIA,fdl5kCAQmeA",
+    "parts": "壁に囲まれて,群衆の中であなたは私に気付かなかった,騒がしい日も終わり,倦怠,エレジー,川の上で"
   },
   {
     "catalog": "M91",
@@ -972,7 +977,8 @@ works = [
     "ensemble": "独唱,pf",
     "text": "A.A.ゴレニシチェフ=クトゥーゾフ",
     "notes": "全4曲。第1曲 子守歌／第2曲 セレナード／第3曲 トレパーク／第4曲 司令官",
-    "url": "8se4w4xjzm8,gz33LyTAnHw,eSByj1qg1rM,I3yS_6VUd8Y"
+    "url": "8se4w4xjzm8,gz33LyTAnHw,eSByj1qg1rM,I3yS_6VUd8Y",
+    "parts": "子守歌,セレナード,トレパーク,司令官"
   },
   {
     "catalog": "M94",
