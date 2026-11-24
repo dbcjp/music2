@@ -242,7 +242,8 @@ works = [
     "title": "Scherzo in B flat major (Pf)",
     "year": "1858",
     "ensemble": "pf",
-    "notes": ""
+    "notes": "ベロフによるリアプノフ編曲の録音があるがオリジナルの演奏の録音が見つからない。管弦楽版の草稿として紛失したのかもしれない。",
+    "url": "oX608pUrCo0"
   },
   {
     "catalog": "M25",
