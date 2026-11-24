@@ -2,86 +2,15 @@ works = [
   {
     "catalog": "M1",
     "category": "opera",
-    "titleJ": "水呑百姓",
-    "title": "Bobyl'",
-    "year": "1870",
+    "titleJ": "アイスランドのハン",
+    "title": "Hans of Iceland",
+    "year": "1856",
     "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
+    "text": "V.ユゴー",
+    "notes": "計画のみ。V.ユゴーの小説に基づく "
   },
   {
     "catalog": "M2",
-    "category": "opera",
-    "titleJ": "結婚",
-    "title": "Marriage",
-    "year": "1868",
-    "ensemble": "Opera",
-    "text": "N.ゴーゴリ",
-    "notes": "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)"
-  },
-  {
-    "catalog": "M3",
-    "category": "opera",
-    "titleJ": "ムラダ",
-    "title": "Mlada",
-    "year": "1872",
-    "ensemble": "Opera",
-    "text": "V.A.クルイローフ",
-    "notes": "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存 "
-  },
-  {
-    "catalog": "M4",
-    "category": "opera",
-    "titleJ": "ボリス・ゴドゥノフ",
-    "title": "Boris Godunov",
-    "year": "1868,1869",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー / V.スターソフ",
-    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク"
-  },
-  {
-    "catalog": "M5",
-    "category": "opera",
-    "titleJ": "ホヴァーンシチナ",
-    "title": "Khovanshchina",
-    "year": "1872,1873,1874,1875,1876,1877,1878,1879,1880",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク"
-  },
-  {
-    "catalog": "M6",
-    "category": "opera",
-    "titleJ": "プガチョフシチナ",
-    "title": "Pugachovshchina",
-    "year": "1877",
-    "ensemble": "Opera",
-    "text": "-",
-    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
-  },
-  {
-    "catalog": "M7",
-    "category": "opera",
-    "titleJ": "ソロチンツィの定期市",
-    "title": "Sorochintsï Fair",
-    "year": "1874,1875,1876,1877,1878,1879,1880",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ"
-  },
-  {
-    "catalog": "M8",
-    "category": "opera",
-    "titleJ": "サランボー",
-    "title": "Salammbô",
-    "year": "1863,1864,1865,1866",
-    "ensemble": "Opera",
-    "text": "ムソルグスキー",
-    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく ",
-    "url": "L19SZGPGXTU,v0b4kbJ6P2A,4JWimQPzXhI,K2RTDlgX4KI,kFwIavVTM1g,or486iMz5pU,RVOt3VFAQRo,Q2MezxTi-p8,jbfr6_djLTY,hjQ3eITLypI,26jSuny6XE0,8v6xRcd06Ks"
-  },
-  {
-    "catalog": "M9",
     "category": "opera",
     "titleJ": "アテネのエディプス王",
     "title": "Oedipus in Athens",
@@ -92,14 +21,95 @@ works = [
     "url": "r_-YpsPJ-_Y"
   },
   {
+    "catalog": "M3",
+    "category": "opera",
+    "titleJ": "サランボー",
+    "title": "Salammbô",
+    "year": "1863,1864,1865,1866",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 4幕。未完、台本の大半と3曲のみ現存。G.フローベールの小説に基づく ",
+    "url": "L19SZGPGXTU,v0b4kbJ6P2A,4JWimQPzXhI,K2RTDlgX4KI,kFwIavVTM1g,or486iMz5pU,RVOt3VFAQRo,Q2MezxTi-p8,jbfr6_djLTY,hjQ3eITLypI,26jSuny6XE0,8v6xRcd06Ks",
+    "parts": "Introduzione,Act I-1,Act I-2,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act III-1,Act III-2,Act IV-1,Act IV-2"
+  },
+  {
+    "catalog": "M4",
+    "category": "opera",
+    "titleJ": "結婚",
+    "title": "Marriage",
+    "year": "1868",
+    "ensemble": "Opera",
+    "text": "N.ゴーゴリ",
+    "notes": "幕: 1幕。未完、1幕のみ完成。N.ゴーゴリのコメディに基づく。M.イッポリトフ=イヴァノフ補筆完成(第2幕~第4幕) 初演:1901,ペテルブルク / 1931,モスクワ(補筆版)",
+    "url": "IpDNqcSvqhM,KBnrTPuQYNI,JMTaklCVZEY,N2gK2R8sSzc",
+    "parts": "Act I,Act II,Act III,Act IV"
+  },
+  {
+    "catalog": "M5",
+    "category": "opera",
+    "titleJ": "ボリス・ゴドゥノフ",
+    "title": "Boris Godunov",
+    "year": "1868,1869",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー / V.スターソフ",
+    "notes": "幕: 4幕。プロローグと4幕 初演:1873,ペテルブルク",
+    "url": "v3gqr20xwes,s2aDsYOsFoY,rIqaLpj1mgI,TfDPQ2myyQU,Mjb5PF_JtNI,LG166wKM7ec,3EC-OkNJKBg,4z4ccc9t7Cs,CCq4qItA6SY,tJeBFiahnhU,vvth85smN2I,_d1GucIp-Ds,8WJG21dgvCY,udvyewS_D8s,tD9--i2QdeA,iAXUITX9mh0,3yXNTOiXmaQ,CWlVeujysBE,YQW3I5ocGvA,qvyDKJ-4Ot0,7vyXJcWDXj4,k9NPWatIXwI,J_59RcZMddU,rtAOzplX7g8,Zs8676klflo,tfvR6lEmXsk,WpGwNRm1EUo,u_biFQBevc4,4QDTeKomc5A,d-pMGNXURwM,h6kueh4FIZ0,lI0W6HTI2Ig,ImYh6uz9Eog,dfXlnt9DsUk,MLGCUDg_n2U,-0hs5BlI-pk,wl_zqI-fZC0,QbQ96CTArh0,TsA6-9Rmegw,hJWIpMpiwqI,TKDKZldtXLI,c43thsbO7d4,dlLJMFOGAmg,RxSU-x4uGko,fBNjNZQXgdY,XF41KgkfFO4,1tPUcYWXkFQ,dJhHPOA6PYc,fluDhY0AqJg,ZsfV0L2cU_g,6gdRExmn6t4,WpiSdOJWFvA,5XTlryp4LgM,56_8QIOgJmY,qZKR2jQqOdE,Otv4ZfMJxUU,pGvt8azmobA,6pl0zEU6tJY,f8VRmTjM9hU,iV4JCZuyT2U,JMh6rgwUvKw,gAbNnwhX1V0,CfUovF3DcUI,PLU2ciPadY4,YfKeXAN24X0,GOXBYkWtBxs,tpASZ6xoEhI,t_6R-QhCS0c,uoySbyZDpME,hQ_Ll32ZU8w,f8zKQTo_eDg,doWwsqtqTwY,Ziu5hPHQ5Bs,2s-hiEkyo-M,YKUGQoR9pkA,8dNFoXxVan8,60sQHbuTMl8,2AM0T3zKgwk",
+    "parts": "Prologue-1-1,Prologue-1-2,Prologue-1-3,Prologue-1-4,Prologue-1-5,Prologue-1-6,Prologue-1-7,Prologue-2-1,Prologue-2-2,Prologue-2-3,Prologue-2-4,Act I-1-1,Act I-1-2,Act I-1-3,Act I-1-4,Act I-1-5,Act I-1-6,Act I-1-7,Act 1-1-8,Act I-2-1,Act I-2-2,Act I-2-3,Act I-2-4,Act I-2-5,Act I-2-6,Act I-2-7,Act I-2-8,Act I-2-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act II-7,Act II-8,Act II-9,Act II-10,Act II-11,Act III-1-1,Act III-1-2,Act III-1-3,Act III-1-4,Act III-1-5,Act III-1-6,Act III-2-1,Act III-2-2,Act III-2-3,Act III-2-4,Act III-2-5,Act III-2-6,Act III-2-7,Act III-2-8,Act III-2-9,Act IV-1-1 ('69),Act IV-1-2 ('69),Act IV-1-3 ('69),Act IV-1-4 ('69),Act IV-1-5 ('74),Act IV-1-6 ('74),Act IV-1-7 ('74),Act IV-1-8 ('74),Act IV-1-9 ('74),Act IV-1-10 ('74),Act IV-1-11 ('74),Act IV-1-12 ('74),Act IV-1-13 ('74),Act IV-1-14 ('74),Act IV-1-15 ('74),Act IV-2-1 ('74),Act IV-2-2 ('74),Act IV-2-3 ('74),Act IV-2-4 ('74),Act IV-2-5 ('74),Act IV-2-6 ('74),Act IV-2-7 ('74),Act IV-2-8 ('74),Act IV-2-9 ('74)"
+  },
+  {
+    "catalog": "M6",
+    "category": "opera",
+    "titleJ": "水呑百姓",
+    "title": "Bobyl'",
+    "year": "1870",
+    "ensemble": "Opera",
+    "text": "-",
+    "notes": "計画のみ。シュピールハーゲンに基づく。ホヴァーンシチナのスケッチ "
+  },
+  {
+    "catalog": "M7",
+    "category": "opera",
+    "titleJ": "ムラダ",
+    "title": "Mlada",
+    "year": "1872",
+    "ensemble": "Opera",
+    "text": "V.A.クルイローフ",
+    "notes": "幕: 4幕。未完、キュイ他による合作のオペラ＝バレエ。2曲のみ現存",
+    "url": "hNnjRGGlt5w"
+  },
+  {
+    "catalog": "M8",
+    "category": "opera",
+    "titleJ": "ホヴァーンシチナ",
+    "title": "Khovanshchina",
+    "year": "1872,1873,1874,1875,1876,1877,1878,1879,1880",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク",
+    "url": "idqFJO5_lLg,26j4Qzc6TLE,z-hnyEK7onE,VMj__P0FE-I,W11Fez38Ww8,2tM7PrSVDcg,YGRq07Cucck,KzUDJQbpJTY,zzl_G-MNzD8,Ksmzc_jnZGE,QJrTZlgGtq4,M0Jl-Ik7pJ8,I5iC2gC-ER4,7ARsXLVpHYA,1M-bPzqffoo,zJygkDHyEdU,DWmTS0RxzJo,UPRtd505X-c,Ivdtur4ym0g,EJZErLpNtc4,rK0v1pXijzg,ozEKq08W_70,YQMfoi1PECU,4ElrmXDIz7A,Kvhfu3TnUjQ,UI_UopYANEI,oevDm-o1fMU,2CMclvF_H9k,bO2r5Q9haSA,g69LDMfm4jk,sCAoOW4KOi8,f_rPosIZtw0,FeVuswVsEbA,foZ_x0T9B3o,iJIPeGKRILU",
+    "parts":"Prelude,Act I-1,Act I-2,Act I-3,Act I-4,Act I-5,Act I-6,Act I-7,Act I-8,Act I-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act III-1,Act III-2,Act III-3,Act III-4,Act III-5,Act III-6,Act III-7,Act III-8,Act III-9,Act IV-1,Act IV-2,Act IV-3,Act IV-4,Act IV-5,Act IV-6,Act IV-7,Act V-1,Act V-2,Act V (Stravinsky Ending)-3"
+  },
+  {
+    "catalog": "M9",
+    "category": "opera",
+    "titleJ": "ソロチンツィの定期市",
+    "title": "Sorochintsï Fair",
+    "year": "1874,1875,1876,1877,1878,1879,1880",
+    "ensemble": "Opera",
+    "text": "ムソルグスキー",
+    "notes": "幕: 3幕4場。未完。『ソロチンスクの定期市』とも。N.ゴーゴリの『ディカーニカ近郷夜話』に基づく 初演:1913,モスクワ",
+    "url": "4jo3Keg9NxU,wdh4EX0rVdc,W5yAjejU-h4",
+    "parts": "Act I,Act II,Act III"
+  },
+  {
     "catalog": "M10",
     "category": "opera",
-    "titleJ": "アイスランドのハン",
-    "title": "Hans of Iceland",
-    "year": "1856",
+    "titleJ": "プガチョフシチナ",
+    "title": "Pugachovshchina",
+    "year": "1877",
     "ensemble": "Opera",
-    "text": "V.ユゴー",
-    "notes": "計画のみ。V.ユゴーの小説に基づく "
+    "text": "-",
+    "notes": "計画のみ。A.プーシキンの『大尉の娘』に基づく "
   },
   {
     "catalog": "M11",
@@ -118,8 +128,7 @@ works = [
     "title": "Alla marcia notturna",
     "year": "1861",
     "ensemble": "Orch",
-    "notes": "",
-    "url": "hNnjRGGlt5w"
+    "notes": ""
   },
   {
     "catalog": "M13",
@@ -341,7 +350,8 @@ works = [
     "year": "1874",
     "ensemble": "pf",
     "notes": "全10曲。モーリス・ラヴェルによる管弦楽編曲版あり",
-    "url": "jDX4MVXy_cA,Nk4zKZ9DII8,aAsNOSlejJI,kbELrbbt7BU,4WLvqh9xRrY,gQ03Myt9wVo,f1hfah72vx0,mfXKYgFaJb0,Nz66mjsq4hw,srBGM27-vTI,8My4xYx1ZVI,qWCnQy9NrQs,Vv4x6FkNuOs,6JZon8wm0L4,T9opE0wowR8,mktcvFYEiCk"
+    "url": "jDX4MVXy_cA,Nk4zKZ9DII8,aAsNOSlejJI,kbELrbbt7BU,4WLvqh9xRrY,gQ03Myt9wVo,f1hfah72vx0,mfXKYgFaJb0,Nz66mjsq4hw,srBGM27-vTI,8My4xYx1ZVI,qWCnQy9NrQs,Vv4x6FkNuOs,6JZon8wm0L4,T9opE0wowR8,mktcvFYEiCk",
+    "parts": "プロムナードI,小人 (グノーム),プロムナードII,古城,プロムナードIII,テュイルリーの庭,ビドロ（牛車,プロムナードIV,卵の殻をつけたひなどりのバレエ,サミュエル・ゴールデンベルクとシュムイレ,プロムナードV,リモージュの市場,カタコンブ (ローマ時代の墓),死者と共に死者の言葉で,鶏の足の上の小屋 (バーバ・ヤーガ),キエフの大門"
   },
   {
     "catalog": "M36",
