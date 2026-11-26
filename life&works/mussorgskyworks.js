@@ -444,7 +444,7 @@ works = [
     "ensemble": "男声4部cho",
     "notes": "全5曲。第1曲 話して、かわいい娘よ／第2曲 昇れ、赤い太陽よ／第3曲 お父様の戸口で／第4曲 ああ、自由よ／第5曲 未完",
     "url": "Fp5V3g4JR1o,HurhZYZahis,TRDtSphTIgE",
-    "parts": "No.2 Rise\, Fair Sun,No.3 At My Father\'s Gate,No.4 O\, My Freedom"
+    "parts": "No.2 Rise Fair Sun,No.3 At My Father\'s Gate,No.4 O My Freedom"
   },
   {
     "catalog": "M45",
