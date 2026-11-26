@@ -87,7 +87,7 @@ works = [
     "text": "ムソルグスキー",
     "notes": "幕: 5幕 (4幕6場)。未完、リムスキー＝コルサコフ補筆。史実(ホヴァンスキーの乱)に基づく 初演:1886,ペテルブルク",
     "url": "idqFJO5_lLg,26j4Qzc6TLE,z-hnyEK7onE,VMj__P0FE-I,W11Fez38Ww8,2tM7PrSVDcg,YGRq07Cucck,KzUDJQbpJTY,zzl_G-MNzD8,Ksmzc_jnZGE,QJrTZlgGtq4,M0Jl-Ik7pJ8,I5iC2gC-ER4,7ARsXLVpHYA,1M-bPzqffoo,zJygkDHyEdU,DWmTS0RxzJo,UPRtd505X-c,Ivdtur4ym0g,EJZErLpNtc4,rK0v1pXijzg,ozEKq08W_70,YQMfoi1PECU,4ElrmXDIz7A,Kvhfu3TnUjQ,UI_UopYANEI,oevDm-o1fMU,2CMclvF_H9k,bO2r5Q9haSA,g69LDMfm4jk,sCAoOW4KOi8,f_rPosIZtw0,FeVuswVsEbA,foZ_x0T9B3o,iJIPeGKRILU",
-    "parts":"Prelude,Act I-1,Act I-2,Act I-3,Act I-4,Act I-5,Act I-6,Act I-7,Act I-8,Act I-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act III-1,Act III-2,Act III-3,Act III-4,Act III-5,Act III-6,Act III-7,Act III-8,Act III-9,Act IV-1,Act IV-2,Act IV-3,Act IV-4,Act IV-5,Act IV-6,Act IV-7,Act V-1,Act V-2,Act V (Stravinsky Ending)-3"
+    "parts": "Prelude,Act I-1,Act I-2,Act I-3,Act I-4,Act I-5,Act I-6,Act I-7,Act I-8,Act I-9,Act II-1,Act II-2,Act II-3,Act II-4,Act II-5,Act II-6,Act III-1,Act III-2,Act III-3,Act III-4,Act III-5,Act III-6,Act III-7,Act III-8,Act III-9,Act IV-1,Act IV-2,Act IV-3,Act IV-4,Act IV-5,Act IV-6,Act IV-7,Act V-1,Act V-2,Act V (Stravinsky Ending)-3"
   },
   {
     "catalog": "M9",
@@ -407,6 +407,17 @@ works = [
   },
   {
     "catalog": "M41",
+    "category": "piano",
+    "titleJ": "オペラ『ソロチンツィの定期市』からのピアノ編曲",
+    "title": "Sorochintsy Fair - Arr. Piano",
+    "year": "1880",
+    "ensemble": "pf",
+    "notes": "『定期市の場面（Fair Scene）』。第1幕冒頭の市場の賑わいを描いた合唱と管弦楽の場面。『ゴパック』。第3幕フィナーレの陽気なウクライナ舞曲。初期稿と改訂稿（後期版）が存在し、ラフマニノフが華麗な演奏会用編曲を作ったことで有名。ムソルグスキー自身の編曲版も素朴で力強い。",
+    "url": "f5tgq-Y3AYY,Q68B-Z_RcP8",
+    "parts": "Fair Scene,Gopak Of the Merry Young Ukrainians"
+  },
+  {
+    "catalog": "M42",
     "category": "chorus",
     "titleJ": "シャミールの行進曲",
     "title": "Shamil's March",
@@ -415,7 +426,7 @@ works = [
     "notes": "計画のみ"
   },
   {
-    "catalog": "M42",
+    "catalog": "M43",
     "category": "chorus",
     "titleJ": "センナヘリブの陥落",
     "title": "The Destruction of Sennacherib",
@@ -425,7 +436,7 @@ works = [
     "url": "GGEr8W5GqJI"
   },
   {
-    "catalog": "M43",
+    "catalog": "M44",
     "category": "chorus",
     "titleJ": "イエス・ナヴィヌス（ヨシュア）",
     "title": "Iisus Navin (Joshua)",
@@ -436,7 +447,7 @@ works = [
     "parts": "Iisus Navin (Joshua),Chorus of Priestesses"
   },
   {
-    "catalog": "M44",
+    "catalog": "M45",
     "category": "chorus",
     "titleJ": "5つのロシア民謡",
     "title": "Five Russian Folksongs",
@@ -444,10 +455,10 @@ works = [
     "ensemble": "男声4部cho",
     "notes": "全5曲。第1曲 話して、かわいい娘よ／第2曲 昇れ、赤い太陽よ／第3曲 お父様の戸口で／第4曲 ああ、自由よ／第5曲 未完",
     "url": "Fp5V3g4JR1o,HurhZYZahis,TRDtSphTIgE",
-    "parts": "No.2 Rise Fair Sun,No.3 At My Father\'s Gate,No.4 O My Freedom"
+    "parts": "No.2 Rise Fair Sun,No.3 At My Father's Gate,No.4 O My Freedom"
   },
   {
-    "catalog": "M45",
+    "catalog": "M46",
     "category": "chorus",
     "titleJ": "3つのヴォカリーズ",
     "title": "Three Vocalises",
@@ -456,7 +467,7 @@ works = [
     "notes": ""
   },
   {
-    "catalog": "M46",
+    "catalog": "M47",
     "category": "song",
     "titleJ": "小さな星よ、お前はどこに？ 田舎の歌",
     "title": "Where Art Thou, Little Star? Rustic Song",
@@ -467,7 +478,7 @@ works = [
     "url": "FvQ3vZIeWo0"
   },
   {
-    "catalog": "M47",
+    "catalog": "M48",
     "category": "song",
     "titleJ": "小さな星よ、お前はどこに？",
     "title": "Where Art Thou, Little Star?",
@@ -478,7 +489,7 @@ works = [
     "url": "p0L9XXV055o"
   },
   {
-    "catalog": "M48",
+    "catalog": "M49",
     "category": "song",
     "titleJ": "私の心の憧れ",
     "title": "Meines Herzens Sehnsucht (Thou Longing of My Heart)",
@@ -489,7 +500,7 @@ works = [
     "url": "v1zSshiuZb8"
   },
   {
-    "catalog": "M49",
+    "catalog": "M50",
     "category": "song",
     "titleJ": "なぜか話して、愛する人よ",
     "title": "Tell Me, Gentle Maiden",
@@ -500,7 +511,7 @@ works = [
     "url": "pog97YKJr6g"
   },
   {
-    "catalog": "M50",
+    "catalog": "M51",
     "category": "song",
     "titleJ": "楽しい時",
     "title": "The Joyous Hour",
@@ -511,7 +522,7 @@ works = [
     "url": "7o-7ywojX3Q"
   },
   {
-    "catalog": "M51",
+    "catalog": "M52",
     "category": "song",
     "titleJ": "悲しげに木の葉はざわめく",
     "title": "Leaves Rustled Sadly",
@@ -522,7 +533,7 @@ works = [
     "url": "vBLBqp6s5R8"
   },
   {
-    "catalog": "M52",
+    "catalog": "M53",
     "category": "song",
     "titleJ": "あなた方にとって愛の言葉が何でしょう？",
     "title": "What Are Words of Love to You?",
@@ -533,7 +544,7 @@ works = [
     "url": "F5Q9u0OKO_4"
   },
   {
-    "catalog": "M53",
+    "catalog": "M54",
     "category": "song",
     "titleJ": "私には多くの宮殿と庭がある",
     "title": "Many Are My Palaces and Gardens",
@@ -544,7 +555,7 @@ works = [
     "url": "7dfndkfJNsQ"
   },
   {
-    "catalog": "M54",
+    "catalog": "M55",
     "category": "song",
     "titleJ": "老人の歌",
     "title": "Old Man's Song",
@@ -555,7 +566,7 @@ works = [
     "url": "NrhI3I4yGyU"
   },
   {
-    "catalog": "M55",
+    "catalog": "M56",
     "category": "song",
     "titleJ": "サウル王",
     "title": "Tsar Saul",
@@ -566,7 +577,7 @@ works = [
     "url": "aGBI0RN28uk"
   },
   {
-    "catalog": "M56",
+    "catalog": "M57",
     "category": "song",
     "titleJ": "戦の前のサウル王",
     "title": "Tsar Saul",
@@ -576,7 +587,7 @@ works = [
     "notes": ""
   },
   {
-    "catalog": "M57",
+    "catalog": "M58",
     "category": "song",
     "titleJ": "しかし、またお前に会えるなら",
     "title": "But If I Could Meet Thee Again",
@@ -587,7 +598,7 @@ works = [
     "url": "gtk25x8EwwE"
   },
   {
-    "catalog": "M58",
+    "catalog": "M59",
     "category": "song",
     "titleJ": "風は吹く、激しい風が",
     "title": "The Winds Blow, the Wild Winds",
@@ -598,7 +609,7 @@ works = [
     "url": "tqtirhG0NY0"
   },
   {
-    "catalog": "M59",
+    "catalog": "M60",
     "category": "song",
     "titleJ": "カリストラートゥシュカ",
     "title": "Kalistratushka",
@@ -609,7 +620,7 @@ works = [
     "url": "75G7H4_1G3M"
   },
   {
-    "catalog": "M60",
+    "catalog": "M61",
     "category": "song",
     "titleJ": "カリストラート",
     "title": "Kalistrat",
@@ -620,7 +631,7 @@ works = [
     "url": "fo89wTlTqAg"
   },
   {
-    "catalog": "M61",
+    "catalog": "M62",
     "category": "song",
     "titleJ": "夜",
     "title": "Night",
@@ -631,7 +642,7 @@ works = [
     "url": "YTfwERhLY48"
   },
   {
-    "catalog": "M62",
+    "catalog": "M63",
     "category": "song",
     "titleJ": "祈り",
     "title": "A Prayer",
@@ -642,7 +653,7 @@ works = [
     "url": "OoScopZUzX0"
   },
   {
-    "catalog": "M63",
+    "catalog": "M64",
     "category": "song",
     "titleJ": "見捨てられた女 - レチタティーヴォの試み",
     "title": "The Outcast Woman: An essay in recitative",
@@ -653,7 +664,7 @@ works = [
     "url": "A2dJCvVd9gc"
   },
   {
-    "catalog": "M64",
+    "catalog": "M65",
     "category": "song",
     "titleJ": "子守歌",
     "title": "Lullaby",
@@ -664,7 +675,7 @@ works = [
     "url": "sx08XIbnH2M"
   },
   {
-    "catalog": "M65",
+    "catalog": "M66",
     "category": "song",
     "titleJ": "安らかに眠れ、農夫の子よ",
     "title": "Sleep, Go to Sleep, Peasant Son",
@@ -674,7 +685,7 @@ works = [
     "notes": "『子守歌』の改訂版"
   },
   {
-    "catalog": "M66",
+    "catalog": "M67",
     "category": "song",
     "titleJ": "バレアル人の歌",
     "title": "Balearic song",
@@ -685,7 +696,7 @@ works = [
     "url": "d1DNJelfexI"
   },
   {
-    "catalog": "M67",
+    "catalog": "M68",
     "category": "song",
     "titleJ": "かわいいサーヴィシナ",
     "title": "Darling Savishna",
@@ -696,7 +707,7 @@ works = [
     "url": "Veorf5dlqZg"
   },
   {
-    "catalog": "M68",
+    "catalog": "M69",
     "category": "song",
     "titleJ": "ああ、なぜお前の目は冷たいのか",
     "title": "Dear one, why are thine eyes sometimes so cold?",
@@ -707,7 +718,7 @@ works = [
     "url": "SFTJpzsr1PY"
   },
   {
-    "catalog": "M69",
+    "catalog": "M70",
     "category": "song",
     "titleJ": "願い",
     "title": "Desire",
@@ -718,7 +729,7 @@ works = [
     "url": "MmJuVe8h5-k"
   },
   {
-    "catalog": "M70",
+    "catalog": "M71",
     "category": "song",
     "titleJ": "私の涙からたくさんの花が咲き",
     "title": "From My Tears",
@@ -729,7 +740,7 @@ works = [
     "url": "--AKBJJ80tc"
   },
   {
-    "catalog": "M71",
+    "catalog": "M72",
     "category": "song",
     "titleJ": "ああ、この飲んだくれめ",
     "title": "Ah, You Drunken Sot",
@@ -740,7 +751,7 @@ works = [
     "url": "Pot88ECy4xU"
   },
   {
-    "catalog": "M72",
+    "catalog": "M73",
     "category": "song",
     "titleJ": "ゴパーク",
     "title": "Hopak",
@@ -751,7 +762,7 @@ works = [
     "url": "xJ_wQfUZL9Q"
   },
   {
-    "catalog": "M73",
+    "catalog": "M74",
     "category": "song",
     "titleJ": "ドニエプル川で",
     "title": "On the Dnieper",
@@ -762,7 +773,7 @@ works = [
     "url": "7OmMOKchwBA"
   },
   {
-    "catalog": "M74",
+    "catalog": "M75",
     "category": "song",
     "titleJ": "ヤリョーマの歌",
     "title": "Yaryoma's Song",
@@ -772,7 +783,7 @@ works = [
     "notes": "紛失"
   },
   {
-    "catalog": "M75",
+    "catalog": "M76",
     "category": "song",
     "titleJ": "ヘブライの歌",
     "title": "Hebrew Song",
@@ -783,7 +794,7 @@ works = [
     "url": "qhHqycOj2WI"
   },
   {
-    "catalog": "M76",
+    "catalog": "M77",
     "category": "song",
     "titleJ": "おしゃべりかささぎ",
     "title": "Magpie Whitesides",
@@ -794,7 +805,7 @@ works = [
     "url": "mhDzd8boqU4"
   },
   {
-    "catalog": "M77",
+    "catalog": "M78",
     "category": "song",
     "titleJ": "神学生",
     "title": "The Seminarist",
@@ -805,7 +816,7 @@ works = [
     "url": "U1NmzZpfwQA"
   },
   {
-    "catalog": "M78",
+    "catalog": "M79",
     "category": "song",
     "titleJ": "きのこ狩り",
     "title": "Gathering Mushrooms",
@@ -816,7 +827,7 @@ works = [
     "url": "9Q5F507v4R8"
   },
   {
-    "catalog": "M79",
+    "catalog": "M80",
     "category": "song",
     "titleJ": "集い",
     "title": "The Banquet",
@@ -827,7 +838,7 @@ works = [
     "url": "fH2zeZNLGnE"
   },
   {
-    "catalog": "M80",
+    "catalog": "M81",
     "category": "song",
     "titleJ": "いたずらっ子",
     "title": "The Urchin",
@@ -838,7 +849,7 @@ works = [
     "url": "G7jusLivCIQ"
   },
   {
-    "catalog": "M81",
+    "catalog": "M82",
     "category": "song",
     "titleJ": "牡羊座 - 世俗のお話",
     "title": "The Goat - A Society Tale",
@@ -849,7 +860,7 @@ works = [
     "url": "k5XKcyn-KGQ"
   },
   {
-    "catalog": "M82",
+    "catalog": "M83",
     "category": "song",
     "titleJ": "古典主義者",
     "title": "The Classicist",
@@ -860,7 +871,7 @@ works = [
     "url": "BSISS9dXLPM"
   },
   {
-    "catalog": "M83",
+    "catalog": "M84",
     "category": "song",
     "titleJ": "ドン川のほとりの花園",
     "title": "A Garden by the Don Blooms",
@@ -871,7 +882,7 @@ works = [
     "url": "LmsgD9UlIgo"
   },
   {
-    "catalog": "M84",
+    "catalog": "M85",
     "category": "song",
     "titleJ": "みなし子",
     "title": "The Orphan",
@@ -882,7 +893,7 @@ works = [
     "url": "cjok2VIZ1LQ"
   },
   {
-    "catalog": "M85",
+    "catalog": "M86",
     "category": "song",
     "titleJ": "子供の歌",
     "title": "A Child's Song",
@@ -893,7 +904,7 @@ works = [
     "url": "odVEqdhDpow"
   },
   {
-    "catalog": "M86",
+    "catalog": "M87",
     "category": "song",
     "titleJ": "エリョームシュカの子守歌",
     "title": "Yeryomushka's Lullaby",
@@ -904,7 +915,7 @@ works = [
     "url": "2_-Loetb1Ak"
   },
   {
-    "catalog": "M87",
+    "catalog": "M88",
     "category": "song",
     "titleJ": "歌曲集『子供部屋』",
     "title": "The Nursery",
@@ -913,10 +924,10 @@ works = [
     "text": "ムソルグスキー",
     "notes": "全7曲。第1曲 ばあやと一緒／第2曲 部屋の隅／第3曲 かぶと虫／第4曲 お人形と一緒に／第5曲 夕べの祈り／第6曲 木馬に乗って／第7曲 いたずら猫",
     "url": "HK0n5nA17JI,rotGXq0GoEE,3oSYj8x35jk,hqYsec89ySE,K1LyDXb4A3E,WIREaFpC1FA,I-dU4tq3vd4",
-    "parts":"ばあやと一緒,部屋の隅,かぶと虫,お人形と一緒に,夕べの祈り,木馬に乗って,いたずら猫"
+    "parts": "ばあやと一緒,部屋の隅,かぶと虫,お人形と一緒に,夕べの祈り,木馬に乗って,いたずら猫"
   },
   {
-    "catalog": "M88",
+    "catalog": "M89",
     "category": "song",
     "titleJ": "ラヨーク",
     "title": "Rayok",
@@ -927,7 +938,7 @@ works = [
     "url": "-vfC3eTKHvM"
   },
   {
-    "catalog": "M89",
+    "catalog": "M90",
     "category": "song",
     "titleJ": "夕べの歌",
     "title": "Evening Song",
@@ -938,7 +949,7 @@ works = [
     "url": "KV6OMlgKsYY"
   },
   {
-    "catalog": "M90",
+    "catalog": "M91",
     "category": "song",
     "titleJ": "歌曲集『日の光もなく』",
     "title": "Without Sun",
@@ -950,7 +961,7 @@ works = [
     "parts": "壁に囲まれて,群衆の中であなたは私に気付かなかった,騒がしい日も終わり,倦怠,エレジー,川の上で"
   },
   {
-    "catalog": "M91",
+    "catalog": "M92",
     "category": "song",
     "titleJ": "忘れられた者",
     "title": "Forgotten",
@@ -961,7 +972,7 @@ works = [
     "url": "8EvZRkrDd6s"
   },
   {
-    "catalog": "M92",
+    "catalog": "M93",
     "category": "song",
     "titleJ": "草の茂る山",
     "title": "Nettle Mountain",
@@ -972,7 +983,7 @@ works = [
     "url": "Duo9JuGpL6I"
   },
   {
-    "catalog": "M93",
+    "catalog": "M94",
     "category": "song",
     "titleJ": "歌曲集『死の歌と踊り』",
     "title": "Songs and Dances of Death",
@@ -984,7 +995,7 @@ works = [
     "parts": "子守歌,セレナード,トレパーク,司令官"
   },
   {
-    "catalog": "M94",
+    "catalog": "M95",
     "category": "song",
     "titleJ": "墓碑銘",
     "title": "The Epitaph",
@@ -995,7 +1006,7 @@ works = [
     "url": "CD3nQPu6lBI"
   },
   {
-    "catalog": "M95",
+    "catalog": "M96",
     "category": "song",
     "titleJ": "不思議な女 (スフィンクス、謎)",
     "title": "The Misunderstood One (Sphinx)",
@@ -1006,7 +1017,7 @@ works = [
     "url": "4-mVxba8oI0"
   },
   {
-    "catalog": "M96",
+    "catalog": "M97",
     "category": "song",
     "titleJ": "不幸は落雷のようにではなく襲った",
     "title": "Not Like Thunder From Heaven",
@@ -1017,7 +1028,7 @@ works = [
     "url": "RBgWkdZ2b5Y"
   },
   {
-    "catalog": "M97",
+    "catalog": "M98",
     "category": "song",
     "titleJ": "魂は静かに天に昇る",
     "title": "Softly the Spirit Flew up to Heaven",
@@ -1028,7 +1039,7 @@ works = [
     "url": "kSdt5kriMas"
   },
   {
-    "catalog": "M98",
+    "catalog": "M99",
     "category": "song",
     "titleJ": "傲慢",
     "title": "Pride",
@@ -1039,7 +1050,7 @@ works = [
     "url": "yqKkNMIGUCE"
   },
   {
-    "catalog": "M99",
+    "catalog": "M100",
     "category": "song",
     "titleJ": "ああ、麻紡ぎが男の仕事か",
     "title": "Is It an Honor for a Young Man to Weave Flax?",
@@ -1050,7 +1061,7 @@ works = [
     "url": "Y-5CMOa43bg"
   },
   {
-    "catalog": "M100",
+    "catalog": "M101",
     "category": "song",
     "titleJ": "悲しみは広がり",
     "title": "It Scatters and Breaks",
@@ -1061,7 +1072,7 @@ works = [
     "url": "A1ARDyetRRM"
   },
   {
-    "catalog": "M101",
+    "catalog": "M102",
     "category": "song",
     "titleJ": "幻",
     "title": "The Vision",
@@ -1072,7 +1083,7 @@ works = [
     "url": "PdqIWteJ28U"
   },
   {
-    "catalog": "M102",
+    "catalog": "M103",
     "category": "song",
     "titleJ": "さすらい人",
     "title": "The Wanderer",
@@ -1083,7 +1094,7 @@ works = [
     "url": "zrb1RVUl-GM"
   },
   {
-    "catalog": "M103",
+    "catalog": "M104",
     "category": "song",
     "titleJ": "蚤の歌",
     "title": "Song of the Flea",
@@ -1093,4 +1104,4 @@ works = [
     "notes": "または『アウエルバッハの酒倉でのメフィストフェレスの歌』",
     "url": "C3adY0TjoXw"
   }
-];
+]
