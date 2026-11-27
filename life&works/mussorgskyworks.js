@@ -372,8 +372,9 @@ works = [
     "title": "Near the Southern Shore of the Crimea",
     "year": "1880",
     "ensemble": "pf",
-    "notes": "全2曲",
-    "url": "GwJROOEuz3o"
+    "notes": "全2曲。「グルズフとアユ・ダグ」、「カプリッチョ」",
+    "url": "3eBYbsMACic,GwJROOEuz3o",
+    "parts": "グルズフとアユ・ダグ,カプリッチョ"
   },
   {
     "catalog": "M38",
